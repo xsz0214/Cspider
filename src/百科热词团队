@@ -1,0 +1,2737 @@
+da6
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+
+
+
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="referrer" content="always" />
+<meta name="description" content="百科热词团队（Encyclopedia of Top Searched Keywords Team）是百度百科核心用户团队，主要负责热点词条挖掘、更新、完善及添加热点特型模块等，每天分享最新热点知识。百科热词团队由热爱知识分享、编辑能力优秀的科友汇聚而成。团队成员用最快的速度将最新的热点内容编辑更新词条，同时将高质量信息整理发布，满足大家阅读的需求。他们每天服务着数亿网友对知识的需求。百科热词团队在百科官方的引导下快速成长，团队成员用自己的付出不断传递着热词团队快捷、准确、高质的内容理念。积极参与来实现团队价值，服务亿万网友。...">
+<title>百科热词团队_百度百科</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="icon" sizes="any" mask href="//www.baidu.com/img/baidu.svg">
+
+<meta name="keywords" content="百科热词团队 Encyclopedia of Top Searched Keywords Team 百科热词团 百科热词小组 热词团队 热词小组 百度百科热词团队 百科热词团队发展历史 百科热词团队团队品牌 百科热词团队团队架构 百科热词团队团队考核 百科热词团队团队奖励 百科热词团队手册指南 图解3月十大热词！">
+<meta name="image" content="https://bkssl.bdimg.com/cms/static/baike.png">
+<meta name="csrf-token" content="">
+<meta itemprop="dateUpdate" content="2021-03-30 16:50:15" />
+<style>
+        . {
+            display: none !important;
+        }
+    </style>
+
+<!--[if lte IE 9]>
+<script>
+    (function() {
+      var e = "abbr,article,aside,audio,canvas,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(","),
+        i = e.length;
+      while (i--) {
+        document.createElement(e[i]);
+      }
+
+      window.console = window.console || {};
+      var f = ['log', 'info', 'warning', 'error', 'clear'];
+      var l = f.length;
+      while(l--) {
+        window.console[f[l]] = function () {};
+      }
+    })();
+  </script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/pkg/wiki-common-base_90ebdeb.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/component/userbar-n/userbar-n_2890903.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/lib/larkplayer/larkplayer_5df5e6a.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/lib/webuploader/webuploader_08d9db4.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module_5c05f78.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/announcement/announcement_cba33f4.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/label/label_1b0bc0e.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/newSideShare/sideShare_7e089b7.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/v
+2890
+ideo/pageMask/pageMask_ff9a193.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/praise/praise_7237057.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-feature-common_17e7be8.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/quarterly/posterQuarterly_ef0aa1f.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/hotspotmining/hotspotmining_2780e77.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/mainContent_47f1933.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaRelation_496a30a.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/zhixin/zhixin_3b0d7a5.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons-n/toolButtons-n_8b4919b.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons-n/userInfo-n_7e90184.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/searchHeader-n_f9a6e5b.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_b5c72d5.css"/>    
+</head>
+
+<script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?55b574651fcae74b0a9f1cf9c8d7c93a";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+
+<body class="wiki-lemma neweditor feature small-feature varietySmall">
+
+
+<div class="header-wrapper pc-header-new">
+<div style="display:none;" id="J-vars" data-lemmaid="13571828" data-lemmatitle="百科热词团队"></div>
+<div class="topbar cmn-clearfix">
+<ul class="wgt-userbar wgt-userbar-n" id="j-wgt-userbar">
+<li>
+<a href="http://www.baidu.com/">百度首页</a>
+</li>
+</ul>
+<div class="separator"></div>
+<div class="wiki-common-headTabBar">
+<a href="https://www.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://www.baidu.com/s?ie=utf-8&fr=bks0000&wd=">网页</a>
+<a href="http://news.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://news.baidu.com/ns?tn=news&cl=2&rn=20&ct=1&fr=bks0000&ie=utf-8&word=">新闻</a>
+<a href="https://tieba.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=">贴吧</a>
+<a href="https://zhidao.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://zhidao.baidu.com/search?pn=0&&rn=10&lm=0&fr=bks0000&word=">知道</a>
+<a href="http://music.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://music.baidu.com/search?f=ms&ct=134217728&ie=utf-8&rn=&lm=-1&pn=30&fr=bks0000&key=">音乐</a>
+<a href="http://image.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://image.baidu.com/search/index?tn=baiduimage&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&word=">图片</a>
+<a href="http://v.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://www.baidu.com/sf/vsearch?pd=video&tn=vsearch&ie=utf-8&rsv_spt=17&wd=">视频</a>
+<a href="http://map.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://map.baidu.com/m?ie=utf-8&fr=bks0000&word=">地图</a>
+<a href="https://wenku.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://wenku.baidu.com/search?lm=0&od=0&ie=utf-8&fr=bks0000&word=">文库</a>
+<b class="baike">百科</b>
+</div>
+</div>
+<div class="header">
+<div class="layout">
+<div class="wgt-searchbar wgt-searchbar-new wgt-searchbar-main cmn-clearfix wgt-searchbar-large">
+<div class="logo-container">
+<a class="logo cmn-inline-block" title="到百科首页" href="/">
+<span class="cmn-baike-logo">
+<em class="cmn-icon cmn-icons cmn-icons_logo-bai"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-baike"></em>
+</span>
+</a>
+</div>
+<div class="search">
+<div class="form">
+<form id="searchForm" action="/search/word" method="GET" target="_self">
+<input id="query" nslog="normal" nslog-type="10080011" name="word" type="text" autocomplete="off" autocorrect="off" value="百科热词团队" /><button id="search" nslog="normal" nslog-type="10080008" type="button">进入词条</button><button id="searchLemma" nslog="normal" nslog-type="10080009" type="button">全站搜索</button><a class="help" href="/help" nslog="normal" nslog-type="10080010" target="_blank">帮助</a>
+</form>
+<form id="searchLemmaForm" action="/search" method="GET" target="_self">
+<input id="searchLemmaQuery" name="word" type="hidden" />
+<input name="pn" type="hidden" value="0" />
+<input name="rn" type="hidden" value="0" />
+<input name="enc" type="hidden" value="utf8" />
+</form>
+<ul id="suggestion" class="suggestion">
+<div class="sug"></div>
+<li class="extra">
+<span id="clear" style="margin-right:8px;">清除历史记录</span><span id="close" nslog="normal" nslog-type="10080012">关闭</span>
+</li>
+</ul>
+</div></div>
+</div>
+<div class="declare-wrap" id="J-declare-wrap">
+<div class="declare" id="J-declare">声明：百科词条人人可编辑，词条创建和修改均免费，绝不存在官方及代理商付费代编，请勿上当受骗。<a class="declare-details" target="_blank" href="/common/declaration">详情>></a>
+<div class="close-btn" id="J-declare-close">
+<em class="cmn-icon cmn-icons cmn-icons_close"></em>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="navbar-wrapper">
+<div class="wgt-navbar">
+<div class="navbar-bg">
+<div class="navbar-bg-top">
+<div class="navbar-content layout">
+<div class="navbar-content-box">
+<dl class="index ">
+<dt><a href="/">首页</a></dt>
+<dd>
+<div><a href="/calendar/" target="_blank">历史上的今天</a></div>
+<div><a href="/vbaike/" target="_blank">百科冷知识</a></div>
+<div><a href="/vbaike#gallary" target="_blank">图解百科</a></div>
+</dd>
+</dl>
+<dl class="second-know ">
+<dt>秒懂百科</dt>
+<dd>
+<div><a href="https://child.baidu.com/" target="_blank">懂啦</a></div>
+<div><a href="/item/秒懂本尊答" target="_blank">秒懂本尊答</a></div>
+<div><a href="/item/秒懂大师说" target="_blank">秒懂大师说</a></div>
+<div><a href="/item/秒懂看瓦特" target="_blank">秒懂看瓦特</a></div>
+<div><a href="/item/秒懂五千年" target="_blank">秒懂五千年</a></div>
+<div><a href="/item/秒懂全视界" target="_blank">秒懂全视界</a></div>
+</dd>
+</dl>
+<dl class="special ">
+<dt>特色百科</dt>
+<dd>
+<div><a href="/museum/" target="_blank">数字博物馆</a></div>
+<div><a href="/feiyi?fr=dhlfeiyi" target="_blank">非遗百科</a></div>
+<div><a href="/city/" target="_blank">城市百科</a></div>
+<div><a href="/wikicategory/view?categoryName=恐龙大全" target="_blank">恐龙百科</a></div>
+<div><a href="/wikicategory/view?categoryName=多肉植物" target="_blank">多肉百科</a></div>
+<div><a href="/art" target="_blank">艺术百科</a></div>
+<div><a href="/science" target="_blank">科学百科</a></div>
+</dd>
+</dl>
+<dl class="user ">
+<dt>用户</dt>
+<dd>
+<div><a href="/kedou/" target="_blank">蝌蚪团</a></div>
+<div><a href="/item/百科热词团队" target="_blank">热词团</a></div>
+<div><a href="/campus" target="_blank">百科校园</a></div>
+<div><a href="https://baike.baidu.com/talent/home/index" target="_blank">分类达人</a></div>
+<div><a href="/task/" target="_blank">百科任务</a></div>
+<div><a href="/mall/" target="_blank">百科商城</a></div>
+</dd>
+</dl>
+<dl class="knowledge">
+<dt>知识专题</dt>
+<dd id="J-knowledge-content">
+</dd>
+</dl>
+<dl class="cooperation ">
+<dt>权威合作</dt>
+<dd>
+<div><a href="/operation/cooperation#joint" target="_blank">合作模式</a></div>
+<div><a href="/operation/cooperation#issue" target="_blank">常见问题</a></div>
+<div><a href="/operation/cooperation#connection" target="_blank">联系方式</a></div>
+</dd>
+</dl>
+<div class="right-list">
+<span class="item appdownload" nslog-type="21040001"><a href="/wapui/subpage/baikeappdownload?sfrom=pc_lemmapage_navigation" target="_blank"><em class="cmn-icon cmn-icons cmn-icons_mobile-phone"></em>下载百科APP</a></span>
+<span class="item usercenter"><a href="/usercenter" target="_blank"><em class="cmn-icon cmn-icons cmn-icons_navbar-usercenter"></em>个人中心</a></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="body-wrapper feature feature_small varietySmall">
+<div class="feature_poster">
+<div class="poster">
+<div class="summary-pic">
+<a nslog-type="10002401"
+                    href="/pic/%E7%99%BE%E7%A7%91%E7%83%AD%E8%AF%8D%E5%9B%A2%E9%98%9F/13571828/1/58ee3d6d55fbb2fb4316f1bfce0037a4462309f77641?fr=lemma&amp;ct=single" target="_blank"
+	            >
+<img src="https://bkimg.cdn.bcebos.com/pic/58ee3d6d55fbb2fb4316f1bfce0037a4462309f77641?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" />
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>百科热词团队的概述图（1张）</div>
+</a>
+</div>
+<dl class="con" id="posterCon">
+<dd class="bk_title_body">
+<div class="figurePraise" id="figurePraise" nslog-type="10002001">
+<div class="bg">
+<em></em>
+<i class="vote-count">0</i>
+<i class="txt">点赞</i>
+</div>
+<label></label>
+</div>
+</dd>
+<dt class="title">
+<dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-logo">
+<img src="https://bkimg.cdn.bcebos.com/pic/71cf3bc79f3df8dc4ca2a011c611728b46102896?x-bce-process=image/resize,m_fill,w_80,h_80,align_50,limit_0/format,f_auto" />
+</dd>
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1 >百科热词团队</h1>
+<a href="javascript:;" class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" nslog-type="10003105" target="_blank" href="javascript:;" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-ico
+200
+ns_lock-lemma"></em>锁定</a>
+<a href="/planet/talk?lemmaId=13571828" target="_blank" class="lemma-discussion cmn-btn-hover-blue cmn-btn-28 j-discussion-link" nslog-type="90000102"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-solid"></em>讨论<span class="num"></span></a>
+<a href="javascript:;" class="add-video cmn-btn-hover-blue cmn-btn-28 J-add-video-link">
+<em class="cmn-icon wiki-lemma-icons add-video-icon wiki-lemma-icons_add-video"></em>上传视频</a>
+<a href="javascript:;" cla
+ed0
+ss="add-subLemma cmn-btn-white-blue cmn-btn-28" title="添加义项" nslog-type="50000101"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma"></em></a>
+</dd>
+</dl></dt>
+<dd class="desc">
+<div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">百科热词团队<i>（Encyclopedia of Top Searched Keywords Team）</i>是<a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91/85895" data-lemmaid="85895">百度百科</a>核心用户团队，主要负责<a target=_blank href="/item/%E7%83%AD%E7%82%B9%E8%AF%8D%E6%9D%A1/7801730" data-lemmaid="7801730">热点词条</a>挖掘、更新、完善及添加热点特型模块等，每天分享最新热点知识。百科热词团队由热爱知识分享、编辑能力优秀的科友汇聚而成。团队成员用最快的速度将最新的<a target=_blank href="/item/%E7%83%AD%E7%82%B9/3388605" data-lemmaid="3388605">热点</a>内容编辑更新词条，同时将高质量信息整理发布，满足大家阅读的需求。他们每天服务着数亿网友对知识的需求。</div><div class="para" label-module="para">百科热词团队在百科官方的引导下快速成长，团队成员用自己的付出不断传递着热词团队快捷、准确、高质的内容理念。积极参与来实现团队价值，服务亿万网友。</div>
+</div>
+</dd>
+<dd class="middleContent">
+<div class="configModuleBanner">
+</div><div class="lemmaWgt-promotion-leadPVBtn">
+</div></dd>
+<dd class="featureBaseInfo">
+<div class="f_baseInfo_wrap">
+<div class="baseBox notDouble hasVideoAndFocus mr-30">
+<div class="dl-baseinfo">
+<dl class="">
+<dt>中文名</dt>
+<dd title="百科热词团队">
+百科热词团队
+</dd>
+</dl>
+<dl class="">
+<dt>外文名</dt>
+<dd title="Encyclopedia of Top Searched Keywords Team">
+Encyclopedia of Top Searched Keywords Team
+</dd>
+</dl>
+<dl class="">
+<dt>组建时间</dt>
+<dd title="2013年9月">
+2013年9月
+</dd>
+</dl>
+<dl class="bottomLine">
+<dt>团队官方</dt>
+<dd title="du小炮兵、du秋枫、du白昼、du一禾">
+du小炮兵、du秋枫、du白昼、du一禾
+</dd>
+</dl>
+</div>
+</div>
+<div class="star-info-block po_quarterly mr-30">
+<dl class="column">
+<dt>
+<span class="qu_title">团队通道</span>
+</dt>
+<dd>
+<div class="viewport" id="slider_po_quarterly">
+<ul class="slider maqueeCanvas">
+<li class="wgt_marquee_unit">
+<a href="https://baike.baidu.com/talent/main/index?teamId=32991  " target="_blank">
+<img src="https://bkimg.cdn.bcebos.com/pic/c9fcc3cec3fdfc03fe7c87dbdb3f8794a4c22648?x-bce-process=image/resize,m_fill,w_80,h_80,align_50,limit_0/format,f_auto"/>
+<div class="name" title="报名">报名</div>
+</a>
+</li>
+<li class="wgt_marquee_unit">
+<a href="http://tieba.baidu.com/f?ie=utf-8&kw=%E7%99%BE%E7%A7%91%E7%83%AD%E8%AF%8D%E5%9B%A2%E9%98%9F" target="_blank">
+<img src="https://bkimg.cdn.bcebos.com/pic/a50f4bfbfbedab64b2b944b0f036afc378311ef2?x-bce-process=image/resize,m_fill,w_80,h_80,align_50,limit_0/format,f_auto"/>
+<div class="name" title="贴吧">贴吧</div>
+</a>
+</li>
+<li class="wgt_marquee_unit">
+<a href="https://baike.baidu.com/usertask/searchlist?taskName=%E7%83%AD%E8%AF%8D" target="_blank">
+<img src="https://bkimg.cdn.bcebos.com/pic/9f2f070828381f30531fe9caa6014c086e06f04b?x-bce-process=image/resize,m_fill,w_80,h_80,align_50,limit_0/format,f_auto"/>
+<div class="name" title="任务">任务</div>
+</a>
+</li>
+<li class="wgt_marquee_unit">
+<a href="https://baike.baidu.com/hotspotmining/browse/showauditednews?status=audit&" target="_blank">
+<img src="https://bkimg.cdn.bcebos.com/pic/7af40ad162d9f2d3572c4e3607a69d13632763d0669d?x-bce-process=image/resize,m_fill,w_80,h_80,align_50,limit_0/format,f_auto"/>
+<div class="name" title="热词系统">热词系统</div>
+</a>
+</li>
+</ul>
+</div>
+</dd>
+</dl>
+</div>
+</div>
+
+6120
+</dd>
+</dl>
+</div></div>
+<div class="tabCards">
+<nav class="pageTabs" id="pageTabs">
+<a _index="defaultTab" class="defaultTab cur ">
+<i><span>词条</span></i>
+</a>
+</nav>
+</div>
+<div class="content-wrapper">
+<div class="content ">
+<div class="main-content">
+<div class="main_tab main_tab-defaultTab  curTab">
+<div id="hotspotmining_s" class="clearfix" alog-alias="hotspotmining-subLemma-">
+<div class="anchor-list ">
+<a name="hotspotmining" class="lemma-anchor " ></a>
+</div><ul class="hotspotminingNavbar clearfix">
+<li class="active" data-id="625826">最新新闻</li>
+</ul>
+<div id="hotspotminingContent-625826" class="hotspotminingContent clearfix showPic" style="display: block" data-tab="最新新闻">
+<div class="hotspotminingContent_pic ">
+<a href="https://baike.baidu.com/vbaike/%E5%9B%BE%E8%A7%A33%E6%9C%88%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D/69711" target="_blank"><img src="https://bkimg.cdn.bcebos.com/pic/279759ee3d6d55fbb2fb9dac536e584a20a4472377ae?x-bce-process=image/resize,m_fill,w_360,h_280,align_50,limit_0/format,f_auto" /></a>
+</div>
+<div class="hotspotminingContent_cnt ">
+<div class="hotspotminingContent_cnt_tit"><span class="hotspotminingContent_cnt_tit_tit"><a href="https://baike.baidu.com/vbaike/%E5%9B%BE%E8%A7%A33%E6%9C%88%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D/69711" target="_blank">图解3月十大热词！</a></span><img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/hotspotmining/img/flag_new_5f5180c.png" />
+<span class="hotspotminingContent_cnt_tit_tim">2021-03-31 10:56</span>
+</div>
+<div class="hotspotminingContent_cnt_cnt">
+<span>开局关乎全局，国事连着家事。2021年两会的一项重要议程，就是审查和讨论“十四五”规划和2035年远景目标纲要草案，通过法定程序使党的主张成为国家意志，让“路线图”成为“施工图”。
+
+</span><a href="https://baike.baidu.com/vbaike/%E5%9B%BE%E8%A7%A33%E6%9C%88%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D/69711" target="_blank">...详情</a></div>
+</div>
+<div class="hotspotminingContent_rel ">
+<div class="hotspotminingContent_rel_tit">相关新闻</div>
+<ul class="hotspotminingContent_rel_cnt">
+</ul>
+</div>
+<div class="hotspotminingContent_web"></div>
+</div>
+</div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">发展历史</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_1">团队背景</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_2">团队历程</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">团队品牌</a></span>
+</li>
+<li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">团队架构</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_1">官方负责人</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_2">用户团队</a></span>
+</li>
+<li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">团队考核</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_1">基础考核</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#4_2">新人考核</a></span>
+</li>
+<li class="level1">
+<span class="index">5</span>
+<span class="text"><a href="#5">团队奖励</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#5_1">基础奖励</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#5_2">实物奖励</a></span>
+</li>
+<li class="level1">
+<span class="index">6</span>
+<span class="text"><a href="#6">手册指南</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_1">更新要求</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_2">挖掘要求</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_3">编辑要求</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#6_4">完善标准</a></span>
+</li>
+</ol>
+
+</div>
+</div>
+</div>
+<h2 class="headline-1 custom-title ">
+<span class="headline-content">基本信息</span>
+</h2><div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">
+百科热词团队
+</dd>
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">
+Encyclopedia of Top Searched Keywords Team
+</dd>
+<dt class="basicInfo-item name">组建时间</dt>
+<dd class="basicInfo-item value">
+2013年9月
+</dd>
+<dt class="basicInfo-item name">团队官方</dt>
+<dd class="basicInfo-item value">
+du小炮兵、du秋枫、du白昼、du一禾
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">团队品牌</dt>
+<dd class="basicInfo-item value">
+<a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D">百度百科十大热词</a>、《<a target=_blank href="/item/%E5%8F%B2%E8%AE%B0%C2%B72020/54939095" data-lemmaid="54939095">史记·2020</a>》
+</dd>
+<dt class="basicInfo-item name">团队口号</dt>
+<dd class="basicInfo-item value">
+以词铭史，记录时代点滴
+</dd>
+<dt class="basicInfo-item name">正式成立</dt>
+<dd class="basicInfo-item value">
+2013年9月19日
+</dd>
+<dt class="basicInfo-item name">主题曲</dt>
+<dd class="basicInfo-item value">
+《百科热词团队带你远航》
+</dd>
+<dt class="basicInfo-item name">编辑指南</dt>
+<dd class="basicInfo-item value">
+<a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E7%83%AD%E8%AF%8D%E7%BC%96%E8%BE%91/13828963" data-lemmaid="13828963">百度百科：热词编辑</a>
+</dd>
+</dl></div>
+<div class="anchor-list ">
+<a name="1" class="lemma-anchor para-title" ></a>
+<a name="sub13233781_1" class="lemma-anchor " ></a>
+<a name="发展历史" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">百科热词团队</span>发展历史</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list ">
+<a name="1_1" class="lemma-anchor para-title" ></a>
+<a name="sub13233781_1_1" class="lemma-anchor " ></a>
+<a name="团队背景" class="lemma-anchor " ></a>
+<a name="1-1" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">百科热词团队</span>团队背景</h3>
+</div>
+<div class="para" label-module="para">百科时效性项目作为百科权威、丰富、及时三大品牌战略中及时一环的重点内容，对维护品牌起着重要的前沿性作用。百科时效性方向主要负责热点词条挖掘、更新、完善及添加热点新闻模块等，分享每天最新热点知识。运营用户用最快的速度将最新的热点编辑更新到词条，同时将高质量信息整理发布，满足大家阅读的需求。他们每天服务着数十万网友对知识的需求。</div><div class="anchor-list ">
+<a name="1_2" class="lemma-anchor para-title" ></a>
+<a name="sub13233781_1_2" class="lemma-anchor " ></a>
+<a name="团队历程" class="lemma-anchor " ></a>
+<a name="1-2" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">百科热词团队</span>团队历程</h3>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" 
+	 
+		style="width:220px; float: right;"
+	>
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E7%99%BE%E7%A7%91%E7%83%AD%E8%AF%8D%E5%9B%A2%E9%98%9F/13571828/0/3bf33a87e950352a5736d0d85d43fbf2b3118b8f?fr=lemma&ct=single" target="_blank"
+			title="团队形象" 
+	 
+		style="width:220px;height:391.74386920981px;"
+		>
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://bkimg.cdn.bcebos.com/pic/3bf33a87e950352a5736d0d85d43fbf2b3118b8f?x-bce-process=image/resize,m_lfit,w_220,limit_1/format,f_auto"  alt="团队形象"
+							style="width:220px;height:391.74386920981px;"
+					/>
+</a>
+<span class="description">
+团队形象
+</span>
+</div>2013年9月，百科热词团队开始组建；</div><div class="para" label-module="para">2013年9月19日，发布测试任务，百科热词团队正式成立；</div><div class="para" label-module="para">2013年9月22日，发布修订版运行规范；</div><div class="para" label-module="para">2013年9月30日，内部招募统计专员；并发布初优申请帖；</div><div class="para" label-module="para">2013年10月9日，百科热词团队首次发放奖励，每人至少获得百科新款T恤一件；</div><div class="para" label-module="para">2013年10月15日，开启<a target=_blank href="/item/%E7%8E%A9%E8%BD%AC%E7%99%BE%E7%A7%91/9690513" data-lemmaid="9690513">玩转百科</a>主题活动，每周六晚进行百科话题讨论，陪大家一起玩；当天开启人才引进计划，对新加入成员和邀请加入较多的成员都有一定奖励；</div><div class="para" label-module="para">2013年10月20日，任命残轩阁主为优质评审员，柯南heaven为积分统计员，问道花开1为科普专员；</div><div class="para" label-module="para">2013年10月21日，开启科普词榜，发布编辑百科尚未收录的一些词条；</div><div class="para" label-module="para">2013年11月14日，对热词自荐格式等做规范说明；</div><div class="para" label-module="para">2013年12月11日，发布《<a target=_blank href="/item/%E5%8F%B2%E8%AE%B0%C2%B72013">史记·2013</a>》词条完善任务；</div><div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" 
+	 
+		style="width:220px; float: right;"
+	>
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E7%99%BE%E7%A7%91%E7%83%AD%E8%AF%8D%E5%9B%A2%E9%98%9F/13571828/0/3812b31bb051f8196ec42dabd2b44aed2f73e76a?fr=lemma&ct=single" target="_blank"
+			title="" 
+	 
+		style="width:220px;height:128.96551724138px;"
+		>
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://bkimg.cdn.bcebos.com/pic/3812b31bb051f8196ec42dabd2b44aed2f73e76a?x-bce-process=image/resize,m_lfit,w_220,limit_1/format,f_auto"  alt=""
+							style="width:220px;height:128.96551724138px;"
+					/>
+</a>
+</div>2013年12月20日，开始评选百科热词年度贡献奖，对获奖人员进行专属徽章定制；</div><div class="para" label-module="para">2013年12月22日，百科新任务系统已经上线，团队率先开启科普传奇任务；</div><div class="para" label-module="para">2013年12月24日，晋升华庸为热词审核专员，负责热词质量进行检查等工作；</div><div class="para" label-module="para">2013年12月25日，临时活动，赠送到对象、女神、男生手中特别表白贺卡；</div><div class="para" label-module="para">2014年2月17日，发布新的热词运营方案，转移<a target=_blank href="/item/%E7%99%BE%E7%A7%91%E8%AE%B0%E8%80%85%E5%9B%A2">百科记者团</a>吧做活动，并在贴吧公开获奖等信息；</div><div class="para" label-module="para">2014年3月31日，对成员重新分组，并发布确认帖。</div><div class="para" label-module="para">2014年7月22日，百科首期锐词榜发布；<sup class="sup--normal" data-sup="1" data-ctrmap=":1,">
+[1]</sup><a class="sup-anchor" name="ref_[1]_13233781">&nbsp;</a>
+</div><div class="para" label-module="para">2014年7月29日，百度百科专题第一期《好声音第三季学员身份大起底》上线；</div><div class="para" label-module="para">2014年9月中旬，du小象不再负责热词组的工作，百科热词组由<b>du小芽</b>和<b>du小炮兵</b>负责。</div><div class="para" label-module="para">2014年11月22日，百科热词团队专属后台——热点挖掘后台-词条更新任务区，正式上线。</div><div class="para" label-module="para">2014年12月9日，结合词条权威数据，百度百科发布《<a target=_blank href="/item/%E5%8F%B2%E8%AE%B0%C2%B72014">史记·2014</a>》。<sup class="sup--normal" data-sup="2" data-ctrmap=":2,">
+[2]</sup><a class="sup-anchor" name="ref_[2]_13233781">&nbsp;</a>
+</div><div class="para" label-module="para">2015年1月9日，百度百科年度热词盛典隆重开启，现场公布了2014年科技、社会、娱乐、网络等领域热词，还邀请了年度娱乐人气王<a target=_blank href="/item/%E9%B9%BF%E6%99%97">鹿晗</a>亲临现场互动。</div><div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" 
+	 
+		style="width:220px; float: right;"
+	>
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E7%99%BE%E7%A7%91%E7%83%AD%E8%AF%8D%E5%9B%A2%E9%98%9F/13571828/0/838ba61ea8d3fd1f07c9f6933c4e251f94ca5f52?fr=lemma&ct=single" target="_blank"
+			title="2017年全国两会专题获奖" 
+	 
+		style="width:220px;height:151.29552980132px;"
+		>
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://bkimg.cdn.bcebos.com/pic/838ba61ea8d3fd1f07c9f6933c4e251f94ca5f52?x-bce-process=image/resize,m_lfit,w_220,limit_1/format,f_auto"  alt="2017年全国两会专题获奖"
+							style="width:220px;height:151.29552980132px;"
+					/>
+</a>
+<span class="description">
+2017年全国两会专题获奖
+</span>
+</div>2015年6月16日，百科热词团队举办端午节赢粽子活动，团队贡献量创造了单日贡献数据最高纪录。</div><div class="para" label-module="para">2015年6月下旬，热词团队进行新的调整，团队创建了新的玩法，开启团队成员培养扩充新模式，并完善“时效性更新”+“专题挖掘”两条腿走路的模式。同期，<a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D">百度百科十大热词</a>品牌建设工作全面启动。</div><div class="para" label-module="para">2015年8月上旬，组建中国好声音专题小组和铁路知识专题小组。</div><div class="para" label-module="para">2015年8月9日，由LIU望、地狱凯撒亮OTK、我思故我橙等三名热词导师组成的热词导师组试点成立。</div><div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" 
+	 
+		style="width:220px; float: right;"
+	>
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E7%99%BE%E7%A7%91%E7%83%AD%E8%AF%8D%E5%9B%A2%E9%98%9F/13571828/0/8644ebf81a4c510f066bb5b36c59252dd52aa5e8?fr=lemma&ct=single" target="_blank"
+			title="2018年全国两会专题优秀策划奖" 
+	 
+		style="width:220px;height:149.01521216974px;"
+		>
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://bkimg.cdn.bcebos.com/pic/8644ebf81a4c510f066bb5b36c59252dd52aa5e8?x-bce-process=image/resize,m_lfit,w_220,limit_1/format,f_auto"  alt="2018年全国两会专题优秀策划奖"
+							style="width:220px;height:149.01521216974px;"
+					/>
+</a>
+<span class="description">
+2018年全国两会专题优秀策划奖
+</span>
+</div>2015年12月，结合词条权威数据，百度百科发布《<a target=_blank href="/item/%E5%8F%B2%E8%AE%B0%C2%B72015">史记·2015</a>》。</div><div class="para" label-module="para">2016年1月25日，百科热词团队吧启用。</div><div class="para" label-module="para">2016年12月，结合词条权威数据，百度百科发布《<a target=_blank href="/item/%E5%8F%B2%E8%AE%B0%C2%B72016">史记·2016</a>》。</div><div class="para" label-module="para">2017年2月，百科热词团队的主题曲《百科热词团队带你远航》开始酝酿。团队成员歌手杨阳（百度ID：杨阳爱老婆）为团队谱词编曲。<sup class="sup--normal" data-sup="3" data-ctrmap=":3,">
+[3]</sup><a class="sup-anchor" name="ref_[3]_13233781">&nbsp;</a>
+</div><div class="para" label-module="para">2017年4月，『百度百科"秒懂两会"："两会"常识普及』项目获得北京市互联网信息办公室颁发的优秀作品奖。</div><div class="para" label-module="para">2017年12月，du秋枫开始参与百科热词团队日常运营。</div><div class="para" label-module="para">2017年12月26日举办数说·星芒-百度百科史记2017暨百度数说发布会，百度百科发布《<a target=_blank href="/item/%E5%8F%B2%E8%AE%B0%C2%B72017/22249459" data-lemmaid="22249459">史记·2017</a>》。</div><div class="para" label-module="para">2018年4月，百度百科【2018年全国两会专题】获得北京市互联网信息办公室颁发的2018年全国两会网络报道优秀策划奖。</div><div class="para" label-module="para">2018年6月22日，百科热词团队的主题曲《百科热词团队带你远航》历时一年零四个月发布正式版。<sup class="sup--normal" data-sup="3" data-ctrmap=":3,">
+[3]</sup><a class="sup-anchor" name="ref_[3]_13233781">&nbsp;</a>
+</div><div class="para" label-module="para">2018年9月，百度百科上线<a target=_blank href="/item/%E7%83%AD%E8%AF%8D%E7%89%88%E6%9C%AC/22852959" data-lemmaid="22852959">热词版本</a>标记。</div><div class="para" label-module="para">2018年12月28日，百度百科史记2018暨“百度数说·城市”发布会在北京举行，百度百科发布《<a target=_blank href="/item/%E5%8F%B2%E8%AE%B0%C2%B72018/23223816" data-lemmaid="23223816">史记·2018</a>》。<sup class="sup--normal" data-sup="4" data-ctrmap=":4,">
+[4]</sup><a class="sup-anchor" name="ref_[4]_13233781">&nbsp;</a>
+</div><div class="para" label-module="para">2019年12月12日，在2019百度知识峰会上，百度百科发布《<a target=_blank href="/item/%E5%8F%B2%E8%AE%B0%C2%B72019/24182522" data-lemmaid="24182522">史记·2019</a>》。<sup class="sup--normal" data-sup="5" data-ctrmap=":5,">
+[5]</sup><a class="sup-anchor" name="ref_[5]_13233781">&nbsp;</a>
+</div><div class="para" label-module="para">2020年12月8日，在“百度百科史记2020·微光年度论坛”上，百度百科发布《<a target=_blank href="/item/%E5%8F%B2%E8%AE%B0%C2%B72020/54939095" data-lemmaid="54939095">史记·2020</a>》。<sup class="sup--normal" data-sup="6" data-ctrmap=":6,">
+[6]</sup><a class="sup-anchor" name="ref_[6]_13233781">&nbsp;</a>
+</div><div class="anchor-list ">
+<a name="2" class="lemma-anchor para-title" ></a>
+<a name="sub13233781_2" class="lemma-anchor " ></a>
+<a name="团队品牌" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">百科热词团队</span>团队品牌</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<table log-set-param="table_view" data-sort="sortDisabled"><caption>百度百科月度十大热词</caption><tr><td colspan="3" align="center"><div class="para" label-module="para"><b>2021年</b></div></td></tr><tr><td align="center" width="272" height="30"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942021%C2%B71/55940604" data-lemmaid="55940604">百度百科十大热词——2021·1</a></div></td><td align="center" width="268" height="30"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942021%C2%B72/56161280" data-lemmaid="56161280">百度百科十大热词——2021·2</a></div></td><td align="center" width="272" height="30"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942021%C2%B73/56534334" data-lemmaid="56534334">百度百科十大热词——2021·3</a></div></td></tr><tr><td colspan="3" align="center"><div class="para" label-module="para"><b><a target=_blank href="/item/%E5%8F%B2%E8%AE%B0%C2%B72020/54939095" data-lemmaid="54939095">史记·2020</a></b></div></td></tr><tr><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942020%C2%B71/24292748" data-lemmaid="24292748">百度百科十大热词——2020·1</a></div></td><td align="center" width="268"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942020%C2%B72/24467719" data-lemmaid="24467719">百度百科十大热词——2020·2</a></div></td><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942020%C2%B73/24703171" data-lemmaid="24703171">百度百科十大热词——2020·3</a></div></td></tr><tr><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942020%C2%B74/49946926" data-lemmaid="49946926">百度百科十大热词——2020·4</a></div></td><td align="center" width="268"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942020%C2%B75/50146561" data-lemmaid="50146561">百度百科十大热词——2020·5</a></div></td><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942020%C2%B76/50800059" data-lemmaid="50800059">百度百科十大热词——2020·6</a></div></td></tr><tr><td align="center" width="272" height="30"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942020%C2%B77/53037948" data-lemmaid="53037948">百度百科十大热词——2020·7</a></div></td><td align="center" width="268" height="30"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942020%C2%B78/53445798" data-lemmaid="53445798">百度百科十大热词——2020·8</a></div></td><td align="center" width="272" height="30"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942020%C2%B79/53915201" data-lemmaid="53915201">百度百科十大热词——2020·9</a></div></td></tr><tr><td align="center" width="272" height="30"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942020%C2%B710/54130422" data-lemmaid="54130422">百度百科十大热词——2020·10</a></div></td><td align="center" width="268" height="30"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942020%C2%B711/55098627" data-lemmaid="55098627">百度百科十大热词——2020·11</a></div></td><td align="center" width="272" height="30"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942020%C2%B712/55646888" data-lemmaid="55646888">百度百科十大热词——2020·12</a></div></td></tr><tr><td colspan="3" align="center"><div class="para" label-module="para"><b><a target=_blank href="/item/%E5%8F%B2%E8%
+4f30
+AE%B0%C2%B72019/24182522" data-lemmaid="24182522">史记·2019</a></b></div></td></tr><tr><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942019%C2%B71/23268240" data-lemmaid="23268240">百度百科十大热词——2019·1</a></div></td><td align="center" width="268"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942019%C2%B72/23306945" data-lemmaid="23306945">百度百科十大热词——2019·2</a></div></td><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942019%C2%B73/23374527" data-lemmaid="23374527">百度百科十大热词——2019·3</a></div></td></tr><tr><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942019%C2%B74/23442818" data-lemmaid="23442818">百度百科十大热词——2019·4</a></div></td><td align="center" width="268"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942019%C2%B75/23515797" data-lemmaid="23515797">百度百科十大热词——2019·5</a></div></td><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942019%C2%B76/23591148" data-lemmaid="23591148">百度百科十大热词——2019·6</a></div></td></tr><tr><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942019%C2%B77/23642934" data-lemmaid="23642934">百度百科十大热词——2019·7</a></div></td><td align="center" width="268"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942019%C2%B78/23714726" data-lemmaid="23714726">百度百科十大热词——2019·8</a></div></td><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942019%C2%B79/23777104" data-lemmaid="23777104">百度百科十大热词——2019·9</a></div></td></tr><tr><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942019%C2%B710/24106375" data-lemmaid="24106375">百度百科十大热词——2019·10</a></div></td><td align="center" width="268"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942019%C2%B711/24170224" data-lemmaid="24170224">百度百科十大热词——2019·11</a></div></td><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942019%C2%B712/24233893" data-lemmaid="24233893">百度百科十大热词——2019·12</a></div></td></tr><tr><td colspan="3" align="center"><div class="para" label-module="para"><b><a target=_blank href="/item/%E5%8F%B2%E8%AE%B0%C2%B72018/23223816" data-lemmaid="23223816">史记·2018</a></b></div></td></tr><tr><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942018%C2%B71/22358157" data-lemmaid="22358157">百度百科十大热词——2018·1</a></div></td><td align="center" width="268"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942018%C2%B72/22400701" data-lemmaid="22400701">百度百科十大热词——2018·2</a></div></td><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942018%C2%B73/22456648" data-lemmaid="22456648">百度百科十大热词——2018·3</a></div></td></tr><tr><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942018%C2%B74/22543954" data-lemmaid="22543954">百度百科十大热词——2018·4</a></div></td><td align="center" width="268"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942018%C2%B75/22612021" data-lemmaid="22612021">百度百科十大热词——2018·5</a></div></td><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942018%C2%B76/22690431" data-lemmaid="22690431">百度百科十大热词——2018·6</a></div></td></tr><tr><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942018%C2%B77/22775205" data-lemmaid="22775205">百度百科十大热词——2018·7</a></div></td><td align="center" width="268"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942018%C2%B78/22839614" data-lemmaid="22839614">百度百科十大热词——2018·8</a></div></td><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942018%C2%B79/22891713" data-lemmaid="22891713">百度百科十大热词——2018·9</a></div></td></tr><tr><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942018%C2%B710/22989229" data-lemmaid="22989229">百度百科十大热词——2018·10</a></div></td><td align="center" width="268"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942018%C2%B711/23178057" data-lemmaid="23178057">百度百科十大热词——2018·11</a></div></td><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942018%C2%B712/23223682" data-lemmaid="23223682">百度百科十大热词——2018·12</a></div></td></tr><tr><td colspan="3" align="center"><div class="para" label-module="para"><b><a target=_blank href="/item/%E5%8F%B2%E8%AE%B0%C2%B72017/22249459" data-lemmaid="22249459">史记·2017</a></b></div></td></tr><tr><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942017%C2%B71/20402138" data-lemmaid="20402138">百度百科十大热词——2017·1</a></div></td><td align="center" width="268"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942017%C2%B72/20453428" data-lemmaid="20453428">百度百科十大热词——2017·2</a></div></td><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942017%C2%B73/20585615" data-lemmaid="20585615">百度百科十大热词——2017·3</a></div></td></tr><tr><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942017%C2%B74/20711874" data-lemmaid="20711874">百度百科十大热词——2017·4</a></div></td><td align="center" width="268"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942017%C2%B75/20822505" data-lemmaid="20822505">百度百科十大热词——2017·5</a></div></td><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942017%C2%B76/21502310" data-lemmaid="21502310">百度百科十大热词——2017·6</a></div></td></tr><tr><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942017%C2%B77/22041638" data-lemmaid="22041638">百度百科十大热词——2017·7</a></div></td><td align="center" width="268"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942017%C2%B78/22099010" data-lemmaid="22099010">百度百科十大热词——2017·8</a></div></td><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942017%C2%B79/22142468" data-lemmaid="22142468">百度百科十大热词——2017·9</a></div></td></tr><tr><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942017%C2%B710/22184607" data-lemmaid="22184607">百度百科十大热词——2017·10</a></div></td><td align="center" width="268"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942017%C2%B711/22228129" data-lemmaid="22228129">百度百科十大热词——2017·11</a></div></td><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942017%C2%B712/22297130" data-lemmaid="22297130">百度百科十大热词——2017·12</a></div></td></tr><tr><td colspan="3" align="center"><div class="para" label-module="para"><b><a target=_blank href="/item/%E5%8F%B2%E8%AE%B0%C2%B72016/20312114" data-lemmaid="20312114">史记·2016</a></b></div></td></tr><tr><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942016%C2%B71/19328547" data-lemmaid="19328547">百度百科十大热词——2016·1</a></div></td><td align="center" width="268"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942016%C2%B72/19426770" data-lemmaid="19426770">百度百科十大热词——2016·2</a></div></td><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942016%C2%B73/19489753" data-lemmaid="19489753">百度百科十大热词——2016·3</a></div></td></tr><tr><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942016%C2%B74/19627991" data-lemmaid="19627991">百度百科十大热词——2016·4</a></div></td><td align="center" width="268"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942016%C2%B75/19703065" data-lemmaid="19703065">百度百科十大热词——2016·5</a></div></td><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942016%C2%B76/19774858" data-lemmaid="19774858">百度百科十大热词——2016·6</a></div></td></tr><tr><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942016%C2%B77/19858950" data-lemmaid="19858950">百度百科十大热词——2016·7</a></div></td><td align="center" width="268"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942016%C2%B78/19923426" data-lemmaid="19923426">百度百科十大热词——2016·8</a></div></td><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942016%C2%B79/20107675" data-lemmaid="20107675">百度百科十大热词——2016·9</a></div></td></tr><tr><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942016%C2%B710/20166139" data-lemmaid="20166139">百度百科十大热词——2016·10</a></div></td><td align="center" width="268"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942016%C2%B711/20236599" data-lemmaid="20236599">百度百科十大热词——2016·11</a></div></td><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942016%C2%B712/20318624" data-lemmaid="20318624">百度百科十大热词——2016·12</a></div></td></tr><tr><td colspan="3" align="center"><div class="para" label-module="para"><b><a target=_blank href="/item/%E5%8F%B2%E8%AE%B0%C2%B72015/16634818" data-lemmaid="16634818">史记·2015</a></b></div></td></tr><tr><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942015%C2%B71/18510242" data-lemmaid="18510242">百度百科十大热词——2015·1</a></div></td><td align="center" width="268"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942015%C2%B72/18509777" data-lemmaid="18509777">百度百科十大热词——2015·2</a></div></td><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942015%C2%B73/18509751" data-lemmaid="18509751">百度百科十大热词——2015·3</a></div></td></tr><tr><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942015%C2%B74/18509714" data-lemmaid="18509714">百度百科十大热词——2015·4</a></div></td><td align="center" width="268"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942015%C2%B75/18340777" data-lemmaid="18340777">百度百科十大热词——2015·5</a></div></td><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942015%C2%B76/18002167" data-lemmaid="18002167">百度百科十大热词——2015·6</a></div></td></tr><tr><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942015%C2%B77/18261882" data-lemmaid="18261882">百度百科十大热词——2015·7</a></div></td><td align="center" width="268"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942015%C2%B78/18603524" data-lemmaid="18603524">百度百科十大热词——2015·8</a></div></td><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942015%C2%B79/18681679" data-lemmaid="18681679">百度百科十大热词——2015·9</a></div></td></tr><tr><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942015%C2%B710/18757204" data-lemmaid="18757204">百度百科十大热词——2015·10</a></div></td><td align="center" width="268"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942015%C2%B711/18894499" data-lemmaid="18894499">百度百科十大热词——2015·11</a></div></td><td align="center" width="272"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942015%C2%B712/19221565" data-lemmaid="19221565">百度百科十大热词——2015·12</a></div></td></tr><tr><td colspan="3" align="center"><div class="para" label-module="para"><b><a target=_blank href="/item/%E5%8F%B2%E8%AE%B0%C2%B72014/16241000" data-lemmaid="16241000">史记·2014</a></b></div></td></tr><tr><td align="center" width="272" height="21"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942014%C2%B77/18599617" data-lemmaid="18599617">百度百科十大热词——2014·7</a></div></td><td align="center" width="268" height="21"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942014%C2%B78/18599618" data-lemmaid="18599618">百度百科十大热词——2014·8</a></div></td><td align="center" width="272" height="21"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942014%C2%B79/18599619" data-lemmaid="18599619">百度百科十大热词——2014·9</a></div></td></tr><tr><td align="center" width="272" height="21"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942014%C2%B710/18595695" data-lemmaid="18595695">百度百科十大热词——2014·10</a></div></td><td align="center" width="268" height="21"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942014%C2%B711/18604745" data-lemmaid="18604745">百度百科十大热词——2014·11</a></div></td><td align="center" width="272" height="21"><div class="para" label-module="para"><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%E5%8D%81%E5%A4%A7%E7%83%AD%E8%AF%8D%E2%80%94%E2%80%942014%C2%B712/18603446" data-lemmaid="18603446">百度百科十大热词——2014·12</a>
+3fb7
+</div></td></tr></table><div class="para" label-module="para"><sup class="sup--normal" data-sup="7-14" data-ctrmap=":7,:8,:9,:10,:11,:12,:13,:14,">
+[7-14]</sup><a class="sup-anchor" name="ref_[7-14]_13233781">&nbsp;</a>
+</div><div class="anchor-list ">
+<a name="3" class="lemma-anchor para-title" ></a>
+<a name="sub13233781_3" class="lemma-anchor " ></a>
+<a name="团队架构" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">百科热词团队</span>团队架构</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list ">
+<a name="3_1" class="lemma-anchor para-title" ></a>
+<a name="sub13233781_3_1" class="lemma-anchor " ></a>
+<a name="官方负责人" class="lemma-anchor " ></a>
+<a name="3-1" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">百科热词团队</span>官方负责人</h3>
+</div>
+<div class="para" label-module="para"><b>du小炮兵、du秋枫、du白昼、du一禾</b></div><div class="anchor-list ">
+<a name="3_2" class="lemma-anchor para-title" ></a>
+<a name="sub13233781_3_2" class="lemma-anchor " ></a>
+<a name="用户团队" class="lemma-anchor " ></a>
+<a name="3-2" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">百科热词团队</span>用户团队</h3>
+</div>
+<ul class="custom_dot para-list list-paddingleft-1"><li class="list-dot list-dot-paddingleft"><div class="para" label-module="para"><b>编辑组</b></div></li></ul><div class="para" label-module="para"><b>主要负责：</b>热词词条挖掘、日常编辑更新、特殊词条的编辑完善、参与热词挖掘、完善及初优任务、百科首页词条进行质量提升、同时对热词新人编辑进行引导反馈。</div><ul class="custom_dot para-list list-paddingleft-1"><li class="list-dot list-dot-paddingleft"><div class="para" label-module="para"><b>模块组</b></div></li></ul><div class="para" label-module="para"><b>主要负责：</b>新闻模块的编辑上线，线上模块抽查及紧急事态处理，对新成员编辑知识进行辅导。</div><ul class="custom_dot para-list list-paddingleft-1"><li class="list-dot list-dot-paddingleft"><div class="para" label-module="para"><b>抽查组</b></div></li></ul><div class="para" label-module="para"><b>主要负责：</b>热词更新内容抽查、新人更新质量反馈，对明显不符合要求的成员进行提醒。专人负责统计每日数据，并在每月月底进行奖励汇总。</div><ul class="custom_dot para-list list-paddingleft-1"><li class="list-dot list-dot-paddingleft"><div class="para" label-module="para"><b>评审组</b></div></li></ul><div class="para" label-module="para"><b>主要负责：</b>热词专题任务的及时审核反馈。</div><div class="anchor-list ">
+<a name="4" class="lemma-anchor para-title" ></a>
+<a name="sub13233781_4" class="lemma-anchor " ></a>
+<a name="团队考核" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">百科热词团队</span>团队考核</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list ">
+<a name="4_1" class="lemma-anchor para-title" ></a>
+<a name="sub13233781_4_1" class="lemma-anchor " ></a>
+<a name="基础考核" class="lemma-anchor " ></a>
+<a name="4-1" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">百科热词团队</span>基础考核</h3>
+</div>
+<div class="para" label-module="para"><b>考核要求</b></div><div class="para" label-module="para">以官方公布为准</div><div class="para" label-module="para"><b>退出机制</b></div><div class="para" label-module="para">请辞出团：根据个人情况，无法继续参与热词团队的相关工作，由个人提交申请，确认离团，取消相关权限。</div><div class="para" label-module="para">开除出团：</div><ol class="custom_num para-list list-paddingleft-1"><li class="list-num-1-1 list-num-paddingleft-1"><div class="para" label-module="para">有多次编辑低质量词条、恶意刷分等不良行为者，予以清退。<i>（团队成员严禁私自编辑医生、企业、品牌、嫩模、三流歌手、楼盘等类型词条，如有热点需发总群确认</i>）</div></li><li class="list-num-1-2 list-num-paddingleft-1"><div class="para" label-module="para">有广告等其它违反百科规定行为者，清退并公告，情节严重者将做封禁处理。<sup class="sup--normal" data-sup="15-20" data-ctrmap=":15,:16,:17,:18,:19,:20,">
+[15-20]</sup><a class="sup-anchor" name="ref_[15-20]_13233781">&nbsp;</a>
+</div></li></ol><div class="anchor-list ">
+<a name="4_2" class="lemma-anchor para-title" ></a>
+<a name="sub13233781_4_2" class="lemma-anchor " ></a>
+<a name="新人考核" class="lemma-anchor " ></a>
+<a name="4-2" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">百科热词团队</span>新人考核</h3>
+</div>
+<div class="para" label-module="para"><b>申请条件</b></div><ol class="custom_num para-list list-paddingleft-1"><li class="list-num-1-1 list-num-paddingleft-1"><div class="para" label-module="para">喜欢新闻、热爱百科、热爱编辑分享，自愿加入百科热词团队；</div></li><li class="list-num-1-2 list-num-paddingleft-1"><div class="para" label-module="para">本人及相关百度账号ID无不良编辑记录，百度ID<i>（含头像）</i>不得包含商业广告信息、不得违反国家法律法规、不得有不文明用语、不得模仿官方账号名、不得有恶意指向性；</div></li><li class="list-num-1-3 list-num-paddingleft-1"><div class="para" label-module="para">百科等级达到3级；</div></li><li class="list-num-1-4 list-num-paddingleft-1"><div class="para" label-module="para">有团队精神，遇到问题能主动和团队成员沟通，不抱怨，遇到问题能积极想办法解决；</div></li><li class="list-num-1-5 list-num-paddingleft-1"><div class="para" label-module="para">热词完善任务需要达标50个词条<i>（以群公告为准）</i>；</div></li><li class="list-num-1-6 list-num-paddingleft-1"><div class="para" label-module="para">保守团队秘密，不随意扩散团队内部资料。</div></li></ol><div class="anchor-list ">
+<a name="5" class="lemma-anchor para-title" ></a>
+<a name="sub13233781_5" class="lemma-anchor " ></a>
+<a name="团队奖励" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">百科热词团队</span>团队奖励</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="5" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list ">
+<a name="5_1" class="lemma-anchor para-title" ></a>
+<a name="sub13233781_5_1" class="lemma-anchor " ></a>
+<a name="基础奖励" class="lemma-anchor " ></a>
+<a name="5-1" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">百科热词团队</span>基础奖励</h3>
+</div>
+<div class="para" label-module="para">热词团队加入总群的正式成员实行积分奖励制度<i>（培训群成员无额外奖励）</i>，热词积分奖励按月发放，团队积分可以累积实物大奖<i>（每半年结算一次）</i>。</div><div class="para" label-module="para"><b>积分公式</b>：团队内部资料，在热词团队总群【群公告】公示。</div><div class="para" label-module="para"><b>达人积分成长计划</b>：团队内部资料，在热词团队总群【群公告】公示。</div><div class="para" label-module="para">按月结算周期：上月26日～本月25日。（即考核月）</div><div class="anchor-list ">
+<a name="5_2" class="lemma-anchor para-title" ></a>
+<a name="sub13233781_5_2" class="lemma-anchor " ></a>
+<a name="实物奖励" class="lemma-anchor " ></a>
+<a name="5-2" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">百科热词团队</span>实物奖励</h3>
+</div>
+<div class="para" label-module="para">热词团队奖励分【积分奖励】和【专项奖励】</div><div class="para" label-module="para">积分奖励：根据团队成员积分贡献获得等值实物奖品，成员可以自行从京东商城上挑选实物奖品，也可由官方选定邮寄发放。</div><div class="para" label-module="para">专项奖励：团队不定期举办专项活动如【春节活动】，发放活动专项奖励。</div><div class="anchor-list ">
+<a name="6" class="lemma-anchor para-title" ></a>
+<a name="sub13233781_6" class="lemma-anchor " ></a>
+<a name="手册指南" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">百科热词团队</span>手册指南</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="6" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list ">
+<a name="6_1" class="lemma-anchor para-title" ></a>
+<a name="sub13233781_6_1" class="lemma-anchor " ></a>
+<a name="更新要求" class="lemma-anchor " ></a>
+<a name="6-1" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">百科热词团队</span>更新要求</h3>
+</div>
+<div class="para" label-module="para"><b>主词条：</b><b><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E7%83%AD%E8%AF%8D%E7%BC%96%E8%BE%91/13828963" data-lemmaid="13828963">百度百科：热词编辑</a></b></div><ol class="custom_num para-list list-paddingleft-1"><li class="list-num-1-1 list-num-paddingleft-1"><div class="para" label-module="para">义项名需要更新最新职务：多义项注意修改义项名（根据介绍能定位到具体的人，不用歌手、电影等粗略内容）详细介绍见群文件。</div></li><li class="list-num-1-2 list-num-paddingleft-1"><div class="para" label-module="para">概述体现热点：概述一般为两段，最多不要超过四段，最新的消息单独列一段放在最后，热点内容只保留最新进展，其他内容放到正文。（注：新闻包含的知识点需求全部添加词条，新闻有图的必须添加概述图）新创建词条概述应为定义性解释。如百度网盘是百度推出的一项云存储服务。</div></li><li class="list-num-1-3 list-num-paddingleft-1"><div class="para" label-module="para">基本信息栏关键信息更新：一般为双数（排版美观），人物去世时基本信息栏更新。</div></li><li class="list-num-1-4 list-num-paddingleft-1"><div class="para" label-module="para">热点内容放在合适的目录：内容较多的词条正文至少有两个一级目录，内容过少时可以不加目录，需注意后期完善。</div></li><li class="list-num-1-5 list-num-paddingleft-1"><div class="para" label-module="para">参考资料：热词更新必须添加参考资料，可以自行百度参考资料。</div></li><li class="list-num-1-6 list-num-paddingleft-1"><div class="para" label-module="para">词条更新之前注意先领取，更新完成提交后点确认完成，注意完善要求里的说明。</div></li></ol><div class="anchor-list ">
+<a name="6_2" class="lemma-anchor para-title" ></a>
+<a name="sub13233781_6_2" class="lemma-anchor " ></a>
+<a name="挖掘要求" class="lemma-anchor " ></a>
+<a name="6-2" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">百科热词团队</span>挖掘要求</h3>
+</div>
+<div class="para" label-module="para"><b>主词条：</b><b><a target=_blank href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E7%83%AD%E8%AF%8D%E6%8C%96%E6%8E%98/20238030" data-lemmaid="20238030">百度百科：热词挖掘</a></b></div><ol class="custom_num para-list list-paddingleft-1"><li class="list-num-1-1 list-num-paddingleft-1"><div class="para" label-module="para">不是任何新闻都可以作为挖掘热点；</div></li><li class="list-num-1-2 list-num-paddingleft-1"><div class="para" label-module="para">不同热点信息时效性要求不同，挖掘时要根据不同分级进行【优先级】区分；</div></li><li class="list-num-1-3 list-num-paddingleft-1"><div class="para" label-module="para">完全没有热度的新闻，如乡镇科级人员的任免、通报批评、记过处分等不通过热词系统来进行。</div></li></ol><div class="anchor-list ">
+<a name="6_3" class="lemma-anchor para-title" ></a>
+<a name="sub13233781_6_3" class="lemma-anchor " ></a>
+<a name="编辑要求" class="lemma-anchor " ></a>
+<a name="6-3" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">百科热词团队</span>编辑要求</h3>
+</div>
+<ol class="custom_num para-list list-paddingleft-1"><li class="list-num-1-1 list-num-paddingleft-1"><div class="para" label-module="para">热词编辑需遵循普通词条的编辑规范，不可出现广告、黄反敏等违规编辑行为；</div></li><li class="list-num-1-2 list-num-paddingleft-1"><div class="para" label-module="para">热词创建应尽可能使用标准词条名；</div></li><li class="list-num-1-3 list-num-paddingleft-1"><div class="para" label-module="para">热词完善应使用权威、可靠参考资料，保证添加信息的真实性；</div></li><li class="list-num-1-4 list-num-paddingleft-1"><div class="para" label-module="para">避免复制-粘贴新闻，提取重要信息沉淀至词条中；</div></li><li class="list-num-1-5 list-num-paddingleft-1"><div class="para" label-module="para">避免使用时效性描述，明确具体时间信息。</div></li></ol><div class="anchor-list ">
+<a name="6_4" class="lemma-anchor para-title" ></a>
+<a name="sub13233781_6_4" class="lemma-anchor " ></a>
+<a name="完善标准" class="lemma-anchor " ></a>
+<a name="6-4" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">百科热词团队</span>完善标准</h3>
+</div>
+<ol class="custom_num para-list list-paddingleft-1"><li class="list-num-1-1 list-num-paddingleft-1"><div class="para" label-module="para">所有词条都必须有概述、目录、参考资料/图片三个模块；</div></li><li class="list-num-1-2 list-num-paddingleft-1"><div class="para" label-module="para">概述不低于30字，信息极少的特殊词条除外；</div></li><li class="list-num-1-3 list-num-paddingleft-1"><div class="para" label-module="para">目录符合各分类标准目录，对于目录一二级设置不合理，信息放置不对应目录，目录名有问题等，都可以通过版本，不通过任务；</div></li><li class="list-num-1-4 list-num-paddingleft-1"><div class="para" label-module="para">排版美观，对于一长串的获奖，一长串的国家地区等，需要整理到表格或者合理的排版；图片图册排版合理，不能杂乱；</div></li><li class="list-num-1-5 list-num-paddingleft-1"><div class="para" label-module="para">弱相关需要简化，可以90%的精简，不建议全部删除，避免损失有效信息。</div></li></ol><div class="anchor-list ">
+<a name="album-list" class="lemma-anchor " ></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/%E7%99%BE%E7%A7%91%E7%83%AD%E8%AF%8D%E5%9B%A2%E9%98%9F/13571828?fr=lemma" target="_blank" ns
+ffa
+log-type="10000204">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料</dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item reference-item--type1 " id="reference-[1]-13233781-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor"  name="refIndex_1_13233781" id="refIndex_1_13233781" title="向上跳转" href="#ref_[1]_13233781">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13571828/aef3yftbUrvZ7gUyijvrcO-xFj9GtKZOHy7ht9h65Ofbj9YoyIcVQxPRXRY_TTzdlGD8lC2wWblBR4X7sfuD6qzl6dlrLGW0KAlmj7lVJ8XqdgcK" target="_blank" class="text">【锐词榜】百科首期锐词榜<span class="linkout">&nbsp;</span></a>
+<span class="site">．百科记者团吧</span><span>&#91;引用日期2014-09-19&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[2]-13233781-wrap">
+<span class="index">2.</span>
+<a class="gotop anchor"  name="refIndex_2_13233781" id="refIndex_2_13233781" title="向上跳转" href="#ref_[2]_13233781">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13571828/806ao2J4Wex8aahQ1XY6BU5rvwS_WxpjNo06kB4j2qBEQTzGk_SSKzMmVNdA3gbmE-6-BNGdCnm6rmcnMYYucBsF2QneWQ3EELpymwkKCTmk9Eaj" target="_blank" class="text">百 度百科年终盘点《史记2014》 揭晓年度热词<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪网</span><span>&#91;引用日期2015-01-25&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[3]-13233781-wrap">
+<span class="index">3.</span>
+<a class="gotop anchor"  name="refIndex_3_13233781" id="refIndex_3_13233781" title="向上跳转" href="#ref_[3]_13233781">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13571828/5897niCdg8ZPB-hwkzAjuDWbfrAVMHTjf5hzGfmucFJItKORIQw-hQykMSWqQsMX_E2oqd0ATApALJs_xCypt1Sfh6jRxU9lmksYyuy5Q3oNeWGqYOgE2FIKkChQpAfq" target="_blank" class="text">《百科热词团队带你远航》-主题曲词谱正式发布<span class="linkout">&nbsp;</span></a>
+<span class="site">．百度</span><span>&#91;引用日期2018-09-15&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[4]-13233781-wrap">
+<span class="index">4.</span>
+<a class="gotop anchor"  name="refIndex_4_13233781" id="refIndex_4_13233781" title="向上跳转" href="#ref_[4]_13233781">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13571828/ef995ubWBmBJ7s-7CvCVVKuzUAhlW1B91Dv7D-koevQSbaCtaBD_j8Fxl0zK5U4h-4ALR09wDsbNZE702eyk5avnMsf-aVIPGV7TUlKh" target="_blank" class="text">百度百科“数说城市”上线覆盖189城 联合共建数据内容<span class="linkout">&nbsp;</span></a>
+<span class="site">．百度百科</span><span>&#91;引用日期2018-12-28&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[5]-13233781-wrap">
+<span class="index">5.</span>
+<a class="gotop anchor"  name="refIndex_5_13233781" id="refIndex_5_13233781" title="向上跳转" href="#ref_[5]_13233781">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13571828/9446hI1PMyYFx6m7bm3LmyzgtnNq-g71XjmXM6RmejR6GlX2XI9bWdKyuQHAhtDJeW_9VGb85xtgNhO2QMJcHb04sLdm7Egs2m0PM1em4DETCPM" target="_blank" class="text">“世界文化遗产冲绳首里城复原计划”启动<span class="linkout">&nbsp;</span></a>
+<span class="site">．光明网</span><span>&#91;引用日期2020-03-06&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[6]-13233781-wrap">
+<span class="index">6.</span>
+<a class="gotop anchor"  name="refIndex_6_13233781" id="refIndex_6_13233781" title="向上跳转" href="#ref_[6]_13233781">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13571828/fc87p7YnDbAOAUGoEZbAO5tEL6pgZrNSAp6kK5Qgzai7OeVC5cefzMObfirPVKYuHg9cJ00NAJu9KBePxvsUVkBmso9QRzDVAE8QfDs1iio-RB8OdNzc" target="_blank" class="text">加速人格化，百度百科掀起“造星”运动<span class="linkout">&nbsp;</span></a>
+<span class="site">．中新网</spa
+6120
+n><span>&#91;引用日期2020-12-30&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[7]-13233781-wrap">
+<span class="index">7.</span>
+<a class="gotop anchor"  name="refIndex_7_13233781" id="refIndex_7_13233781" title="向上跳转" href="#ref_[7]_13233781">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13571828/acd6KGEVaTRpkF68u6OkgfKamsWaZmthnENs7qtinZjiDL6A7fOMggkM_liCTYrVxII5Lthvt_F1S1EScIX0-g" target="_blank" class="text">【百度百科5月十大热词】<span class="linkout">&nbsp;</span></a>
+<span class="site">．百科记者团吧</span><span>&#91;引用日期2015-07-06&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[8]-13233781-wrap">
+<span class="index">8.</span>
+<a class="gotop anchor"  name="refIndex_8_13233781" id="refIndex_8_13233781" title="向上跳转" href="#ref_[8]_13233781">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13571828/218cmWzubCnXXJqrvUngvxPqrNCzv9oLnDnu3PR6Hyr-b-JiUMfWDE0dVQMoNUgUkSiQGsOSLnTYdift8m5Itw" target="_blank" class="text">【百度百科4月十大热词】<span class="linkout">&nbsp;</span></a>
+<span class="site">．百科记者团吧</span><span>&#91;引用日期2015-07-07&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[9]-13233781-wrap">
+<span class="index">9.</span>
+<a class="gotop anchor"  name="refIndex_9_13233781" id="refIndex_9_13233781" title="向上跳转" href="#ref_[9]_13233781">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13571828/41bdcXsTpm-kQRyiemEWUM5ryNOx99Zv16XIlZgvVToR7uQNPd9yhYe4iD5Rh_l7ewGxqIadt3VVfWL6mahfHg" target="_blank" class="text">【百度百科3月十大热词】<span class="linkout">&nbsp;</span></a>
+<span class="site">．百科记者团吧</span><span>&#91;引用日期2015-07-06&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[10]-13233781-wrap">
+<span class="index">10.</span>
+<a class="gotop anchor"  name="refIndex_10_13233781" id="refIndex_10_13233781" title="向上跳转" href="#ref_[10]_13233781">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13571828/85804WdnFDziOzByHTUWQIXucDnNRSIfqBFX907VGv8JVBTKFrnEuwNwqwv1iaap7kfHfKHJaaB_hlxsedczNGyvOqAbzLs" target="_blank" class="text">【百度百科2月十大热词】<span class="linkout">&nbsp;</span></a>
+<span class="site">．百科记者团</span><span>&#91;引用日期2015-07-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[11]-13233781-wrap">
+<span class="index">11.</span>
+<a class="gotop anchor"  name="refIndex_11_13233781" id="refIndex_11_13233781" title="向上跳转" href="#ref_[11]_13233781">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13571828/0eeeHwIWU_pwtNto55mzFtI9GzAptdefK8Eo7mb3YendMS6G8pIZRtI9ftiq3BE3aSg4CUETr_hIhXWKbl9wc4ZyKk5cQ2M" target="_blank" class="text">【百度百科1月十大热词】<span class="linkout">&nbsp;</span></a>
+<span class="site">．百科记者团吧</span><span>&#91;引用日期2015-07-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[12]-13233781-wrap">
+<span class="index">12.</span>
+<a class="gotop anchor"  name="refIndex_12_13233781" id="refIndex_12_13233781" title="向上跳转" href="#ref_[12]_13233781">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13571828/705dfsRacVA_lgqEajigwwN58zBVSoa08ATXmmrSx19LZsfvdGk8pnwsCIEwUzrO0eJSHiHQ03oWECJ__q0b3TisckOguYg" target="_blank" class="text">【百度百科12月十大热词】<span class="linkout">&nbsp;</span></a>
+<span class="site">．百科记者团</span><span>&#91;引用日期2015-07-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[13]-13233781-wrap">
+<span class="index">13.</span>
+<a class="gotop anchor"  name="refIndex_13_13233781" id="refIndex_13_13233781" title="向上跳转" href="#ref_[13]_13233781">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13571828/c9559gwTEfTwWU_XaRy7AVYlJtv9fYXEUhySAadQqpO8xk6I8lLY4KYGpxU-ENwVc5m9mEau11_iR6oVOC3el77mdm4N2Kw" target="_blank" class="text">【百度百科11月十大热词】<span class="linkout">&nbsp;</span></a>
+<span class="site">．百科记者团</span><span>&#91;引用日期2015-07-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[14]-13233781-wrap">
+<span class="index">14.</span>
+<a class="gotop anchor"  name="refIndex_14_13233781" id="refIndex_14_13233781" title="向上跳转" href="#ref_[14]_13233781">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13571828/2793FNMHHwz4mBfFqW54xPJKLbo1rOL13MYi4T5Pz2kZiIvAVLhnPDi13If6XROI095UTYQCoTme5kYd68LG6ullj4bk6LQ" target="_blank" class="text">【百度百科10月十大热词】<span class="linkout">&nbsp;</span></a>
+<span class="site">．百科记者团</span><span>&#91;引用日期2015-07-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[15]-13233781-wrap">
+<span class="index">15.</span>
+<a class="gotop anchor"  name="refIndex_15_13233781" id="refIndex_15_13233781" title="向上跳转" href="#ref_[15]_13233781">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13571828/6d8f_OuF4K2Jwsg1yUeAzxx4N7JtGdPRN7yakp5fpu50rZ47ZdBl05Z-6XvKl41uw-tivwsmxAWr4P7o" target="_blank" class="text">【处罚公告】 李白那诗人 清理本团队<span class="linkout">&nbsp;</span></a>
+<span class="site">．群论坛</span><span>&#91;引用日期2015-07-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[16]-13233781-wrap">
+<span class="index">16.</span>
+<a class="gotop anchor"  name="refIndex_16_13233781" id="refIndex_16_13233781" title="向上跳转" href="#ref_[16]_13233781">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13571828/66e3Y13EDBroUArYpS9eE8yzhlHLbchJ21_ea38G4AcuKO6MIb_fccwMnko9lzbVU1lNlHIF9hB-DPWm" target="_blank" class="text">【处罚公告】 ugugi9 清理本团队<span class="linkout">&nbsp;</span></a>
+<span class="site">．群论坛</span><span>&#91;引用日期2015-07-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[17]-13233781-wrap">
+<span class="index">17.</span>
+<a class="gotop anchor"  name="refIndex_17_13233781" id="refIndex_17_13233781" title="向上跳转" href="#ref_[17]_13233781">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13571828/7f26NDT1IGRKm50R9U6gpLpx7hdbMgADXOgeXuwnNRXDieS3tzqcLLRBCe05VHOYdJT8mLK1FuIU2eAzgHw_Mg" target="_blank" class="text">【公告】关于对 东猊 清除出热词团队的公告<span class="linkout">&nbsp;</span></a>
+<span class="site">．百科记者团吧</span><span>&#91;引用日期2015-07-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[18]-13233781-wrap">
+<span class="index">18.</span>
+<a class="gotop anchor"  name="refIndex_18_13233781" id="refIndex_18_13233781" title="向上跳转" href="#ref_[18]_13233781">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13571828/302eJnKpueL25u6q68btqsfPU5bltHEBaLDDFf-C3NU1z8a4V8cBajERK2x86H2SpMmt3Id2Zi9qQP3o9ocZ0Q" target="_blank" class="text">【公告】关于对 大罗vs小罗 永久封禁处理决定<span class="linkout">&nbsp;</span></a>
+<span class="site">．百科记者团吧</span><span>&#91;引用日期2015-07-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[19]-13233781-wrap">
+<span class="index">19.</span>
+<a class="gotop anchor"  name="refIndex_19_13233781" id="refIndex_19_13233781" title="向上跳转" href="#ref_[19]_13233781">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13571828/bff0a8zC6wDjL6biZtvDO81mv_sDtufNkQEonkKZUViPHWbYqV8oRkF_tvX2xJaLIZsvxlgvfjcy7fFckDklVg" target="_blank" class="text">【公告】关于密密麻麻爱你眼 永久封禁处理<span class="linkout">&nbsp;</span></a>
+<span class="site">．百科蝌蚪团吧</span><span>&#91;引用日期2015-07-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[20]-13233781-wrap">
+<span class="index">20.</span>
+<a class="gotop anchor"  name="refIndex_20_13233781" id="refIndex_20_13233781" title="向上跳转" href="#ref_[20]_13233781">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/13571828/3bc8WUrKnPplukez4dLAL0AhbznjPmYRhf-8QGhLJUKFaBQtt4SqdTmEIxMSgzhmJZVWCjVK3eM0ngy07iOUpw" target="_blank" class="text">【公告】关于对 rsfmqik 清除出热词团队的公告<span class="linkout">&nbsp;</span></a>
+<span class="site">．百科记者团吧</span><span>&#91;引用日期2015-09-10&#93;</span></li></ul>
+</dd>
+<dd class="toggle">
+<span class="text expand-text">展开全部</span>
+<span class="text collapse-text">收起</span>
+<em class="toggle-arrow"></em>
+</dd>
+</dl>
+</div>
+</div>
+<div class="side-content">
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaId="13571828" data-lemmaTitle="百科热词团队"></div><div class="lemmaWgt-sideRecommend">
+<a name="zhixinWrap" class="qnAnchor"></a>
+<div class="zhixin-box" id="zhixinWrap" data-source="" data-newLemmaId="13571828">
+</div>
+<form id="zhixinErrorForm" class="hidden" action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" target="zhixinSubErr" method="post">
+<input class="js-url" name="fb_html_url" type="hidden" />
+<input class="js-query" name="fb_query" type="hidden" />
+<input class="js-title" name="fb_card_title" type="hidden" />
+<input class="js-content" name="fb_content" type="hidden" />
+<input class="js-souceId" name="fb_source_id" type="hidden" />
+</form>
+<iframe id="zhixinSubErr" name="zhixinSubErr" style="display:none" frameborder="0"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：241次<a href="/historylist/%E7%99%BE%E7%A7%91%E7%83%AD%E8%AF%8D%E5%9B%A2%E9%98%9F/13571828" class="nslog:1021" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="3442486396" title="查看此用户资料" target="_blank" href="/usercenter/userpage?uname=du%E7%A7%8B%E6%9E%AB&from=lemma"
+                    nslog-type="1022">du秋枫</a><a href="https://baike.baidu.com/item/百科热词团队" 
+                                title="百科热词团" target="_blank" class="contribute-flag-container">
+<img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/contribute-flag-2_eb180f9.png" alt="" class="contribute-flag-icon">
+</a>
+<span class="j-modified-time" style="display:none">（2021-03-30）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a title="查看此用户资料" class="usercard show-userCard" data-uid="945083504" username="du小象" target="_blank" href="/usercenter/userpage?uname=du%E5%B0%8F%E8%B1%A1&from=lemma">du小象</a>
+<div class="right">
+<a target="_blank" href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC"><img align="absmiddle" alt="创建版本" title="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png"></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#1" class="title-link">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">发展历史</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#1_1" class="title-link">
+<span class="text">
+<span class="title-index">1.1</span>
+<span class="title-link" nslog-type="10002802">团队背景</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#1_2" class="title-link">
+<span class="text">
+<span class="title-index">1.2</span>
+<span class="title-link" nslog-type="10002802">团队历程</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#2" class="title-link">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">团队品牌</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#3" class="title-link">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">团队架构</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#3_1" class="title-link">
+<span class="text">
+<span class="title-index">3.1</span>
+<span class="title-link" nslog-type="10002802">官方负责人</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#3_2" class="title-link">
+<span class="text">
+<span class="title-index">3.2</span>
+<span class="title-link" nslog-type="10002802">用户团队</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#4" class="title-link">
+<span class="text">
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">团队考核</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#4_1" class="title-link">
+<span class="text">
+<span class="title-index">4.1</span>
+<span class="title-link" nslog-type="10002802">基础考核</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#4_2" class="title-link">
+<span class="text">
+<span class="title-index">4.2</span>
+<span class="title-link" nslog-type="10002802">新人考核</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#5" class="title-link">
+<span class="text">
+<span class="title-index">5</span>
+<span class="title-link" nslog-type="10002802">团队奖励</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#5_1" class="title-link">
+<span class="text">
+<span class="title-index">5.1</span>
+<span class="title-link" nslog-type="10002802">基础奖励</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#5_2" class="title-link">
+<span class="text">
+<span class="title-index">5.2</span>
+<span class="title-link" nslog-type="10002802">实物奖励</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#6" class="title-link">
+<span class="text">
+<span class="title-index">6</span>
+<span class="title-link" nslog-type="10002802">手册指南</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#6_1" class="title-link">
+<span class="text">
+<span class="title-index">6.1</span>
+<span class="title-link" nslog-type="10002802">更新要求</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_2" class="title-link">
+<span class="text">
+<span class="title-index">6.2</span>
+<span class="title-link" nslog-type="10002802">挖掘要求</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_3" class="title-link">
+<span class="text">
+<span class="title-index">6.3</span>
+<span class="title-link" nslog-type="10002802">编辑要求</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#6_4" class="title-link">
+<span class="text">
+<span class="title-index">6.4</span>
+<span class="title-link" nslog-type="10002802">完善标准</span>
+</span>
+</a>
+</dd>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+</div>
+<div id="side_box_fengchao" class="fengchao side-box" nslog="area" nslog-type="10000902">
+</div>
+<div id="side_box_unionAd" class="unionAd">
+<div class="union-content"></div>
+</div>
+<div id="J-side-box-yitiao" class="side-box yitiao-box">
+<div class="recommend-title">为您推荐<span class="recommend-flag">广告</span></div>
+<div class="recommend-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>搜索发现</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>
+
+
+<div class="wgt-footer-main">
+<div class="content">
+<dl class="fresh">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-fresh"></em>新手上路</dt>
+<dd>
+<div><a target="_blank" href="/usercenter/tasks#guide">成长任务</a></div>
+<div><a target="_blank" href="/help#main01">编辑入门</a></div>
+<div><a target="_blank" href="/help#main06">编辑规则</a></div>
+<div><a target="_blank" href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E6%9C%AC%E4%BA%BA%E8%AF%8D%E6%9D%A1%E7%BC%96%E8%BE%91%E6%9C%8D%E5%8A%A1/22442459?bk_fr=pcFooter">本人编辑</a><img src="https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/new-icon_a64774d.png" class="new-icon" alt="new"></div>
+</dd>
+</dl>
+<dl class="question">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-question"></em>我有疑问</dt>
+<dd>
+<div><a id="J-bk-feedback-query" data-lemma="百科热词团队" href="javascript:void(0);" nslog-type="10070001" data-type="feedback">内容质疑</a></div>
+<div><a target="_blank" href="http://zhiqiu.baidu.com/baike/passport/html/baikechat.html" nslog-type="10000003">在线客服</a></div>
+<div><a target="_blank" href="http://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91">官方贴吧</a></div>
+<div><a id="J-bk-feedback-main" href="javascript:void(0);">意见反馈</a></div>
+</dd>
+</dl>
+<dl class="suggestion">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-suggestion"></em>投诉建议</dt>
+<dd>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=1">举报不良信息</a></div>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=2">未通过词条申诉</a></div>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=6">投诉侵权信息</a></div>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=5">封禁查询与解封</a></div>
+</dd>
+</dl>
+</div>
+<div class="copyright">©2021&nbsp;Baidu&nbsp;<a href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a>&nbsp;|&nbsp;<a href="http://help.baidu.com/question?prod_en=baike&class=89&id=1637" target="_blank">百科协议</a>&nbsp;|&nbsp;<a href="http://help.baidu.com/question?prod_id=10&class=690&id=1001779" target="_blank">隐私政策</a>&nbsp;|&nbsp;<a href="/operation/cooperation" target="_blank">百度百科合作平台</a>&nbsp;|&nbsp;<span>京ICP证030173号&nbsp;</span><img class="copyright-img" width="13" height="16" src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png"></div>
+<p class="recordcode"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001" target="_blank"><i class="icon-police"></i>京公网安备11000002000001号</a></p>
+</div>
+
+
+<div class="lemmaWgt-searchHeader">
+<div class="layout cmn-clearfix">
+<div class="wgt-searchbar wgt-searchbar-new wgt-searchbar-simple cmn-clearfix ">
+<div class="logo-container">
+<a class="logo cmn-inline-block" title="到百科首页" href="/">
+<span class="cmn-baike-logo">
+<em class="cmn-icon cmn-icons cmn-icons_logo-bai"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-baike"></em>
+</span>
+</a>
+</div>
+<div class="search">
+<div class="form">
+<form id="searchForm" action="/search/word" method="GET" target="_self">
+<input id="query" nslog="normal" nslog-type="10080015" name="word" type="text" autocomplete="off" autocorrect="off" value="百科热词团队" /><button id="search" nslog="normal" nslog-type="10080013" type="button">进入词条</button>
+</form>
+<form id="searchLemmaForm" action="/search" method="GET" target="_self">
+<input id="searchLemmaQuery" name="word" type="hidden" />
+<input name="pn" type="hidden" value="0" />
+<input name="rn" type="hidden" value="0" />
+<input name="enc" type="hidden" value="utf8" />
+</form>
+<ul id="suggestion" class="suggestion">
+<div class="sug"></div>
+<li class="extra">
+<span id="clear" style="margin-right:8px;">清除历史记录</span><span id="close" nslog="normal" nslog-type="10080016">关闭</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="tool-buttons">
+<a class="toolButtons-edit button j-edit-link" href="javascript:;" nslog-type="10010001"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-hollow"></em>编辑</a>
+<a class="toolButtons-discussion button j-discussion-link" href="/planet/talk?lemmaId=13571828" target="_blank" nslog-type="90000103"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-hollow"></em>讨论&nbsp;<span class="num"></span></a>
+<a class="toolButtons-collect button" href="javascript:;" nslog-type="10010002"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-hollow"></em><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>收藏</a>
+<a class="toolButtons-vote button top-vote" href="javascript:;" nslog-type="10010003"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-hollow"></em><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em><span class="j-tool-btn-vote-num">赞</span></a>
+</div>
+<div class="user-info">
+<a class="user-link unlogin" href="javascript:;" nslog-type="10010008" target="_blank">登录</a>
+</div>
+</div></div>
+<div class="new-bdsharebuttonbox new-side-share" id="side-share">
+<div class="share-list">
+<a id="J-bds_task" class="bds_task" target="_blank" href="https://baike.baidu.com/task" nslog-type="10060902"></a>
+<a class="share-link bds_qzone"  href="javascript:void(0);" nslog-type="10060101">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060301">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+<a class="bds_wechat"  href="javascript:void(0);" nslog-type="10060001">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+<a class="share-link bds_tqq"  href="javascript:void(0);" nslog-type="10060201">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+<a id="J-bds_app" class="bds_app"  href="javascript:void(0);" nslog-type="10060901">
+<em class="cmn-icon cmn-icons cmn-icons_mobile-phone"></em>
+</a>
+</div>
+<div class="go-top">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_up-arrow"></em>
+</div>
+<div id="J-task-tip" class="task-tip"></div>
+<div id="J-app-download" class="app-download hide">
+<div class="text">
+<h3 class="main">扫码下载百科APP</h3>
+<h4 class="sub">领取<b>50</b>财富值奖励</h4>
+</div>
+<div class="qrcode"></div>
+</div>
+</div>
+<div class="qrcode-wrapper" id="layer" style="display: none">
+<div class="bd_weixin_popup_header">
+<em class="cmn-icon cmn-icons cmn-icons_close"></em>
+<span>分享到微信朋友圈</span>
+</div>
+<div id="wechat-qrcode-img"></div>
+<div class="bd_weixin_popup_footer">打开微信“扫一扫”即可将网页分享至朋友圈</div>
+</div>
+<div></div><div></div><script>
+        window['__abbaidu_2020_subidgetf'] = function () {
+            var subid = 'baike_pc_lemmapage';
+            return subid;
+        };
+        window['__abbaidu_2020_cb'] = function (res) {
+            document.cookie = 'BAIKE_SHITONG=' + encodeURIComponent(res) + '; path=/item; max-age=86400';
+        }
+    </script>
+
+<script>
+      if (!window['__abbaidu_2020_subidgetf']) {
+        window['__abbaidu_2020_subidgetf'] = function () {
+            var subid = 01000000;
+            return subid;
+        };
+      }
+    </script>
+<script async src="https://dlswbr.baidu.com/heicha/mw/abclite-2020-s.js"></script>
+
+</body><script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/js/mod_4302fe0.js"></script>
+<script type="text/javascript">require.resourceMap({"res":{"wiki-lemma:widget/lemma_content/configModule/quarterly/posterQuarterly.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/quarterly/posterQuarterly_a6902f8.js","deps":["wiki-common:widget/lib/jquery/jquery.js","wiki-lemma:widget/tools/marquee/marquee.js"]},"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/lemmaInsert.js":{"url":"https://bkssl.bdimg.
+2d40
+com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaInsert_5e08533.js","pkg":"wiki-lemma:p5","deps":["wiki-common:widget/component/nslog/nslog.js","wiki-lemma:widget/tools/clickstream/clickstream.js"]},"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/tangram.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/tangram_459492a.js","pkg":"wiki-lemma:p5"},"wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip_d6baf99.js","deps":["wiki-common:widget/lib/jquery/jquery.js","wiki-common:widget/lib/jsmart/jsmart.js","wiki-common:widget/component/nslog/nslog.js"]}},"pkg":{"wiki-lemma:p5":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module-lemmaRelation_9431f2d.js"}}});</script><script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/pkg/wiki-common-jquery-ps-link_06a911b.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/pkg/wiki-common-base_bbbc9dd.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_c6bffd9.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/praise/praise_f107956.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/feature/common/poster/baseCards/baseInfo/baseInfo_basic_tmp_837bf10.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/feature/common/tabCard/tabCard_1671592.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/hotspotmining/hotspotmining_bbc094d.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/zhixin/zhixin_f4b3ee1.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/layout/lemma_81b2b8f.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/layout/layout_76ea466.js"></script>
+<script type="text/javascript">!function(){        require.async(['wiki-lemma:widget/tools/clickstream/clickstream']);
+    }();
+!function(){  var $ = require('wiki-common:widget/lib/jquery/jquery'),
+    userbar = require('wiki-common:widget/component/userbar-n/userbar-n');
+    
+  userbar.buildUserbar($('#j-wgt-userbar'), null);
+}();
+!function(){  require('wiki-common:widget/component/headTabBar/headTabBar');
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery'),
+      initSearchbar = require('wiki-common:widget/component/searchbar-n/searchbar');  
+    initSearchbar($('.wgt-searchbar-main'));
+  }();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var cookie = require('wiki-common:widget/util/cookie');
+    if (!cookie.get('baikedeclare')) {
+        $('#J-declare-wrap').css('display', 'block');
+    }
+    $('#J-declare-close').on('click', function () {
+        // 用户关闭后，不再显示，这里暂设过期时间为1年
+        cookie.set('baikedeclare', 'showed', {
+            expires: 365 * 60 * 60 * 24 * 1000,
+            path: '/'
+        });
+        $('#J-declare-wrap').css('display', 'none');
+    });
+}();
+!function(){var cookie = require('wiki-common:widget/util/cookie');
+var $ = require('wiki-common:widget/lib/jquery/jquery');
+
+var timer = '';
+var requestTime= null;
+var currentTime= new Date().getTime();
+$('.wgt-navbar').on('mouseenter', 'dl', function() {
+  clearTimeout(timer);
+  timer = setTimeout(function() {
+    $('.wgt-navbar').addClass('wgt-navbar-hover');
+  }, 300);
+}).on('mouseleave', function() {
+  clearTimeout(timer);
+  $('.wgt-navbar').removeClass('wgt-navbar-hover');
+}).on('click', 'a', function() {
+  clearTimeout(timer);
+  $('.wgt-navbar').removeClass('wgt-navbar-hover');
+});
+// 30分钟后更新json文件参数，防止浏览器的缓存（仅用当前时间戳会导致带宽压力过大）
+if (!cookie.get('zhishiTopicRequestTime') || (currentTime - cookie.get('zhishiTopicRequestTime') > 1800000)) {
+  cookie.set('zhishiTopicRequestTime', currentTime);
+  requestTime = currentTime;
+} else {
+  requestTime = cookie.get('zhishiTopicRequestTime');
+}
+$.getJSON('https://baikebcs.cdn.bcebos.com/cms/pc_index/knowledge_topic_menu.json?time='+ requestTime, function(data) {
+    for (let i = 0; i < data.length; i++) {
+        $('#J-knowledge-content').append(`<div><a href="https://baike.baidu.com/wapui/subpage/knowledgetopic?id=${data[i].itemId}" target="_blank">${data[i].title}</a></div>`)
+    }
+})
+}();
+!function(){    require('wiki-lemma:widget/lemma_content/configModule/praise/praise')({
+        lemmaId: '13571828',
+        category: 'varietySmall'
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+    var nsLog = require('wiki-common:widget/component/nslog/nslog');
+    var Dialog = require("wiki-common:widget/ui/dialog/dialog");
+    var clickstream = require('wiki-lemma:widget/tools/clickstream/clickstream');
+    // 展现策略
+    rightCheck.editView('13571828', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                clickstream.logViewEl({
+                    page: 'lemma',
+                    element: 'edit_btn',
+                });
+                $('.lemmaWgt-lemmaTitle .edit-lemma').css('display', 'inline-block');
+                // 编辑和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .edit-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .edit-lemma').before('<br/><br/>');
+                  }
+                }
+            } else {
+                nsLog('10003104');
+                $('.lemmaWgt-lemmaTitle .lock-lemma').show();
+                // 锁定和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .lock-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .lock-lemma').before('<br/><br/>');
+                  }
+                }
+            }
+        } else {
+            if ('1') {
+                clickstream.logViewEl({
+                    page: 'lemma',
+                    element: 'edit_btn',
+                });
+                $('.lemmaWgt-lemmaTitle .edit-lemma').css('display', 'inline-block');
+                // 编辑和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .edit-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .edit-lemma').before('<br/><br/>');
+                  }
+                }
+            } else {
+                nsLog('10003104');
+                $('.lemmaWgt-lemmaTitle .lock-lemma').show();
+                // 锁定和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .lock-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .lock-lemma').before('<br/><br/>');
+                  }
+                }
+            }
+        }
+    });
+
+    var canDiscussion = $('.j-discussion-link').length > 0 ? true : false;
+    if (canDiscussion) {
+        var discussionKey = 'discussion' + 13571828;
+        var discussionNum = 0;
+        // 锁定跳转
+        $('body').on('click', '.lock-lemma', function () {
+            var me = $(this);
+            var content = '<div style="text-align: left;width: 528px">'
+                + '<h2 style="font-size: 20px;color: #333;line-height: 26px;margin-bottom: 20px;">'
+                + '词条锁定，暂时无法编辑</h2>'
+                + '<p style="font-size: 16px;color: #333;line-height: 26px;">'
+                + '亲爱的用户，词条存在争议或词条内容较完善都可能被锁定（'
+                + '<a href="/view/10812319.htm" target="_blank">查看详情</a>）。</p>'
+                + '<p style="font-size: 16px;color: #333;line-height: 26px;">'
+                + '如果你认为锁定词条内容存在问题需要修改，可进行以下操作：</p></div>';
+            new Dialog({
+                title: '编辑提示',
+                content: content,
+                btns: [
+                    {
+                        text: '<span style="font-size: 14px">参与词条讨论，反馈词条问题</span>',
+                        key: 'discussion'
+                    }
+                ],
+                onBtnClick: function(btnKey){
+                    if (btnKey === 'discussion') {
+                        window.location.href = '/planet/talk?lemmaId=13571828&category=1';
+                    }
+                }
+            }).show();
+        });
+        // 获取讨论数
+        $.get('/discussion/api/getdiscussioncount?lemmaId=13571828', function (res) {
+            if (res && res.errno === 0 && res.data.discussionCount > 0) {
+                var lastNum = parseInt(localStorage.getItem(discussionKey)) || 0;
+                discussionNum = res.data.discussionCount;
+                var numText = (res.data.discussionCount - lastNum) <= 99 ? (res.data.discussionCount - lastNum) : '99+';
+                if (numText > 0 || numText === '99+') {
+                    $('.j-discussion-link .num').text(numText).show();
+                }
+
+            }
+        });
+        $('.lemmaWgt-lemmaTitle .j-discussion-link').on('click', function () {
+            localStorage.setItem(discussionKey, discussionNum);
+            $(this).find('.num').remove();
+        });
+        // 讨论按钮展现量
+        nsLog(90000101, window.location.href, {
+            lemmaid: 13571828
+        });
+    }
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var nsLog = require('wiki-common:widget/component/nslog/nslog');
+    lemmaId = 13571828;
+    lemmaTitle='百科热词团队';
+    var lemmaDesc = "\u767e\u5ea6\u767e\u79d1\u6838\u5fc3\u7528\u6237\u56e2\u961f";
+
+    var logMap ={
+        uploadShow: 10800000,
+        uploadClick: 10800001
+    };
+    nsLog(logMap.uploadShow, window.location.href, {
+        lemmaid: lemmaId,
+        lemmaTitle: lemmaTitle
+    });
+
+    function gotoPage(url, id) {      
+        var el = document.createElement('a');
+
+        el.setAttribute('href', encodeURI(url));
+        el.setAttribute('target', '_blank');
+        el.setAttribute('id', id);
+
+        if(!document.getElementById(id)) {                 
+            document.body.appendChild(el);
+        }
+
+        el.click();
+    }
+
+    $('.J-add-video-link').on('click', function() {
+        nsLog(logMap.uploadClick, window.location.href, {
+            lemmaid: lemmaId,
+            lemmaTitle: lemmaTitle
+        });
+        var url = '/second/publish?l
+4266
+emmaId=' + lemmaId + '&from=lemma&lemmaTitle=' + lemmaTitle + '&lemmaDesc=' + lemmaDesc;
+
+        gotoPage(url, 'a_blank_tag')
+    })
+}();
+!function(){                var $ = require('wiki-common:widget/lib/jquery/jquery');
+                var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+                // 展现策略
+                rightCheck.editView('13571828', function(res) {
+                    if (!res.errno) {
+                        if (res.data.edit) {
+                            $('.lemmaWgt-lemmaTitle .add-subLemma').css('display', 'inline-block');
+                            $('.top-tool .add-sub-icon').css('display', 'inline-block');
+                        }
+                    } else {
+                        if ('1') {
+                            $('.lemmaWgt-lemmaTitle .add-subLemma').css('display', 'inline-block');
+                            $('.top-tool .add-sub-icon').css('display', 'inline-block');
+                        }
+                    }
+                });    
+                require('wiki-lemma:widget/basicElement/addSub/addSub.js')({                    lemmaId: '13571828',                    lemmaTitle:"\u767e\u79d1\u70ed\u8bcd\u56e2\u961f",                    lemmaDesc:null,                    versionId: '166848923',                    subLemmaId: '13233781'                });        
+            }();
+!function(){    require('wiki-lemma:widget/feature/common/poster/baseCards/baseInfo/baseInfo_basic_tmp');
+}();
+!function(){    require('wiki-lemma:widget/feature/common/poster/baseCards/baseInfo/baseInfo_basic_tmp');
+}();
+!function(){    require('wiki-lemma:widget/feature/common/poster/baseCards/baseInfo/baseInfo_basic_tmp');
+}();
+!function(){    require('wiki-lemma:widget/feature/common/poster/baseCards/baseInfo/baseInfo_basic_tmp');
+}();
+!function(){    var nslog = require('wiki-common:widget/component/nslog/nslog');
+
+    var videoList = [];
+    for (var i in videoList) {
+        switch (videoList[i].source) {
+            case 'iqiyi':
+                nslog(1001951);
+                break;
+            case 'letv':
+                nslog(1001952);
+                break;
+            case 'kankan':
+                nslog(1001953);
+                break;
+            case 'youku':
+                nslog(1001954);
+                break;
+            case 'hunantv':
+                nslog(1001955);
+                break;
+            case 'tencent':
+                nslog(1001956);
+                break;
+            case 'pptv':
+                nslog(1001957);
+                break;
+        }
+    }
+}();
+!function(){        require.async(["wiki-lemma:widget/lemma_content/configModule/quarterly/posterQuarterly"]);
+    }();
+!function(){    var tabCard = require('wiki-lemma:widget/feature/common/tabCard/tabCard');
+    tabCard.init([{"tabType":"defaultTab","tabName":"","isShow":true,"pageUrl":"","height":0,"isScroll":true,"isAligncenter":true,"notFullCol":true,"cfgTabWidget":"","tagTip":""}], {
+        lemmaTitle: '百科热词团队',
+        lemmaId: '13571828'
+    });
+}();
+!function(){        require('wiki-lemma:widget/lemma_content/configModule/hotspotmining/hotspotmining').init(
+            "\u767e\u79d1\u70ed\u8bcd\u56e2\u961f",
+            13571828
+        );
+    }();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var nslog = require('wiki-common:widget/component/nslog/nslog');
+    nslog(10002701);
+    $('.lemmaWgt-lemmaCatalog a').on('click', function () {
+           nslog(10002702);
+    });
+}();
+!function(){	require('wiki-lemma:widget/lemma_content/mainContent/basicInfo/basicInfo')();
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13571828', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13571828', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13571828', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13571828', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13571828', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13571828', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13571828', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13571828', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13571828', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13571828', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13571828', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13571828', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13571828', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13571828', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13571828', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13571828', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13571828', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('13571828', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){	require.async(["wiki-common:widget/lib/jquery/jquery","wiki-lemma:widget/lemma_content/mainContent/albumList/albumList","wiki-common:widget/component/nslog/nslog"],function($,AlbumList,nslog){
+		var list=new AlbumList({
+			newLemmaId:"13571828",
+			lemmaTitle:"百科热词团队",
+			lemmaId:"12756094",
+			subLemmaId:"13233781",
+			data:{"1":{"coverpic":"58ee3d6d55fbb2fb4316f1bfce0037a4462309f77641","desc":"\u6982\u8ff0\u56fe\u518c","albumTag":"","height":1443,"width":2164,"total":1,"coverurl":"https:\/\/bkimg.cdn.bcebos.com\/pic\/58ee3d6d55fbb2fb4316f1bfce0037a4462309f77641?x-bce-process=image\/resize,m_lfit,w_235,h_235,limit_1\/format,f_auto","toppics":[{"uuid":"8usfq2s2rq","src":"58ee3d6d55fbb2fb4316f1bfce0037a4462309f77641","desc":"","width":2164,"height":1443}],"coverPic":{"uuid":"8usfq2s2rq","src":"58ee3d6d55fbb2fb4316f1bfce0037a4462309f77641","desc":"","width":2164,"height":1443,"origSrc":"58ee3d6d55fbb2fb4316f1bfce0037a4462309f77641"},"wapPic":{"uuid":"wap67f41","src":"21a4462309f790529822d1938db9c0ca7bcb0a467f41","width":2164,"height":1443,"origSrc":"58ee3d6d55fbb2fb4316f1bfce0037a4462309f77641","coverCrop":{"width":100,"height":100,"x":0,"y":0,"unit":"%","aspect":1.5,"padWidth":100,"padHeight":100,"onlyPad":1},"category":""},"sharePic":{"uuid":"share37c41","src":"91529822720e0cf3d7cadd568b0ce51fbe096b637c41","width":1443,"height":1445,"origSrc":"58ee3d6d55fbb2fb4316f1bfce0037a4462309f77641","coverCrop":{"width":66.7,"height":100,"x":16.6,"y":0,"unit":"%","aspect":1,"padWidth":66.7,"padHeight":100.15015015015}}}}
+		});
+		!!window.ScriptLazyLoad && window.ScriptLazyLoad.regist({
+			dom:$('.album-list'),
+			loadFunc:function(){
+				list.load();
+				nslog(1258);
+			},
+			distance:500
+		});
+	});
+}();
+!function(){		require.async(["wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReference","wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip"],function(Reference,ReferenceTip){
+			new Reference({
+				subLemmaId:"13233781"
+			});
+			new ReferenceTip({
+				subLemmaId:"13571828",
+				lemmaTitle:"百科热词团队",
+				reference:[{"type":"1","uuid":"gntv5a22dm","title":"\u3010\u9510\u8bcd\u699c\u3011\u767e\u79d1\u9996\u671f\u9510\u8bcd\u699c","url":"\/reference\/13571828\/aef3yftbUrvZ7gUyijvrcO-xFj9GtKZOHy7ht9h65Ofbj9YoyIcVQxPRXRY_TTzdlGD8lC2wWblBR4X7sfuD6qzl6dlrLGW0KAlmj7lVJ8XqdgcK","site":"\u767e\u79d1\u8bb0\u8005\u56e2\u5427","publishDate":"","refDate":"2014-09-19","index":1},{"type":"1","uuid":"gntv6bny7c","title":"\u767e \u5ea6\u767e\u79d1\u5e74\u7ec8\u76d8\u70b9\u300a\u53f2\u8bb02014\u300b \u63ed\u6653\u5e74\u5ea6\u70ed\u8bcd","url":"\/reference\/13571828\/806ao2J4Wex8aahQ1XY6BU5rvwS_WxpjNo06kB4j2qBEQTzGk_SSKzMmVNdA3gbmE-6-BNGdCnm6rmcnMYYucBsF2QneWQ3EELpymwkKCTmk9Eaj","site":"\u65b0\u6d6a\u7f51","publishDate":"","refDate":"2015-01-25","index":2},{"type":"1","uuid":"gntvfhubi9","title":"\u300a\u767e\u79d1\u70ed\u8bcd\u56e2\u961f\u5e26\u4f60\u8fdc\u822a\u300b-\u4e3b\u9898\u66f2\u8bcd\u8c31\u6b63\u5f0f\u53d1\u5e03","url":"\/reference\/13571828\/5897niCdg8ZPB-hwkzAjuDWbfrAVMHTjf5hzGfmucFJItKORIQw-hQykMSWqQsMX_E2oqd0ATApALJs_xCypt1Sfh6jRxU9lmksYyuy5Q3oNeWGqYOgE2FIKkChQpAfq","site":"\u767e\u5ea6","publishDate":"","refDate":"2018-09-15","index":3},{"type":"1","uuid":"gntvfywbkp","title":"\u767e\u5ea6\u767e\u79d1\u201c\u6570\u8bf4\u57ce\u5e02\u201d\u4e0a\u7ebf\u8986\u76d6189\u57ce \u8054\u5408\u5171\u5efa\u6570\u636e\u5185\u5bb9","url":"\/reference\/13571828\/ef995ubWBmBJ7s-7CvCVVKuzUAhlW1B91Dv7D-koevQSbaCtaBD_j8Fxl0zK5U4h-4ALR09wDsbNZE702eyk5avnMsf-aVIPGV7TUlKh","site":"\u767e\u5ea6\u767e\u79d1","publishDate":"","refDate":"2018-12-28","index":4},{"type":"1","uuid":"gntvhnblke","title":"\u201c\u4e16\u754c\u6587\u5316\u9057\u4ea7
+ffa
+\u51b2\u7ef3\u9996\u91cc\u57ce\u590d\u539f\u8ba1\u5212\u201d\u542f\u52a8","url":"\/reference\/13571828\/9446hI1PMyYFx6m7bm3LmyzgtnNq-g71XjmXM6RmejR6GlX2XI9bWdKyuQHAhtDJeW_9VGb85xtgNhO2QMJcHb04sLdm7Egs2m0PM1em4DETCPM","site":"\u5149\u660e\u7f51","publishDate":"","refDate":"2020-03-06","index":5},{"type":"1","uuid":"gntvj5fcdk","title":"\u52a0\u901f\u4eba\u683c\u5316\uff0c\u767e\u5ea6\u767e\u79d1\u6380\u8d77\u201c\u9020\u661f\u201d\u8fd0\u52a8","url":"\/reference\/13571828\/fc87p7YnDbAOAUGoEZbAO5tEL6pgZrNSAp6kK5Qgzai7OeVC5cefzMObfirPVKYuHg9cJ00NAJu9KBePxvsUVkBmso9QRzDVAE8QfDs1iio-RB8OdNzc","site":"\u4e2d\u65b0\u7f51","publishDate":"","refDate":"2020-12-30","index":6},{"type":"1","uuid":"gntv5p51g5","title":"\u3010\u767e\u5ea6\u767e\u79d15\u6708\u5341\u5927\u70ed\u8bcd\u3011","url":"\/reference\/13571828\/acd6KGEVaTRpkF68u6OkgfKamsWaZmthnENs7qtinZjiDL6A7fOMggkM_liCTYrVxII5Lthvt_F1S1EScIX0-g","site":"\u767e\u79d1\u8bb0\u8005\u56e2\u5427","publishDate":"","refDate":"2015-07-06","index":7},{"type":"1","uuid":"gntv7xcj5g","title":"\u3010\u767e\u5ea6\u767e\u79d14\u6708\u5341\u5927\u70ed\u8bcd\u3011","url":"\/reference\/13571828\/218cmWzubCnXXJqrvUngvxPqrNCzv9oLnDnu3PR6Hyr-b-JiUMfWDE0dVQMoNUgUkSiQGsOSLnTYdift8m5Itw","site":"\u767e\u79d1\u8bb0\u8005\u56e2\u5427","publishDate":"","refDate":"2015-07-07","index":8},{"type":"1","uuid":"gntv6thvyz","title":"\u3010\u767e\u5ea6\u767e\u79d13\u6708\u5341\u5927\u70ed\u8bcd\u3011","url":"\/reference\/13571828\/41bdcXsTpm-kQRyiemEWUM5ryNOx99Zv16XIlZgvVToR7uQNPd9yhYe4iD5Rh_l7ewGxqIadt3VVfWL6mahfHg","site":"\u767e\u79d1\u8bb0\u8005\u56e2\u5427","publishDate":"","refDate":"2015-07-06","index":9},{"type":"1","uuid":"gntv7b05w4","title":"\u3010\u767e\u5ea6\u767e\u79d12\u6708\u5341\u5927\u70ed\u8bcd\u3011","url":"\/reference\/13571828\/85804WdnFDziOzByHTUWQIXucDnNRSIfqBFX907VGv8JVBTKFrnEuwNwqwv1iaap7kfHfKHJaaB_hlxsedczNGyvOqAbzLs","site":"\u767e\u79d1\u8bb0\u8005\u56e2","publishDate":"","refDate":"2015-07-06","index":10},{"type":"1","uuid":"gntv7b05xt","title":"\u3010\u767e\u5ea6\u767e\u79d11\u6708\u5341\u5927\u70ed\u8bcd\u3011","url":"\/reference\/13571828\/0eeeHwIWU_pwtNto55mzFtI9GzAptdefK8Eo7mb3YendMS6G8pIZRtI9ftiq3BE3aSg4CUETr_hIhXWKbl9wc4ZyKk5cQ2M","site":"\u767e\u79d1\u8bb0\u8005\u56e2\u5427","publishDate":"","refDate":"2015-07-06","index":11},{"type":"1","uuid":"gntv7b05zh","title":"\u3010\u767e\u5ea6\u767e\u79d112\u6708\u5341\u5927\u70ed\u8bcd\u3011","url":"\/reference\/13571828\/705dfsRacVA_lgqEajigwwN58zBVSoa08ATXmmrSx19LZsfvdGk8pnwsCIEwUzrO0eJSHiHQ03oWECJ__q0b3TisckOguYg","site":"\u767e\u79d1\u8bb0\u8005\u56e2","publishDate":"","refDate":"2015-07-06","index":12},{"type":"1","uuid":"gntv7b0613","title":"\u3010\u767e\u5ea6\u767e\u79d111\u6708\u5341\u5927\u70ed\u8bcd\u3011","url":"\/reference\/13571828\/c9559gwTEfTwWU_XaRy7AVYlJtv9fYXEUhySAadQqpO8xk6I8lLY4KYGpxU-ENwVc5m9mEau11_iR6oVOC3el77mdm4N2Kw","site":"\u767e\u79d1\u8bb0\u8005\u56e2","publishDate":"","refDate":"2015-07-06","index":13},{"type":"1","uuid":"gntv7b062q","title":"\u3010\u767e\u5ea6\u767e\u79d110\u6708\u5341\u5927\u70ed\u8bcd\u3011","url":"\/reference\/13571828\/2793FNMHHwz4mBfFqW54xPJKLbo1rOL13MYi4T5Pz2kZiIvAVLhnPDi13If6XROI095UTYQCoTme5kYd68LG6ullj4bk6LQ","site":"\u767e\u79d1\u8bb0\u8005\u56e2","publishDate":"","refDate":"2015-07-06","index":14},{"type":"1","uuid":"gntv6v92xk","title":"\u3010\u5904\u7f5a\u516c\u544a\u3011 \u674e\u767d\u90a3\u8bd7\u4eba \u6e05\u7406\u672c\u56e2\u961f","url":"\/reference\/13571828\/6d8f_OuF4K2Jwsg1yUeAzxx4N7JtGdPRN7yakp5fpu50rZ47ZdBl05Z-6XvKl41uw-tivwsmxAWr4P7o","site":"\u7fa4\u8bba\u575b","publishDate":"","refDate":"2015-07-06","index":15},{"type":"1","uuid":"gntv6v92z7","title":"\u3010\u5904\u7f5a\u516c\u544a\u3011 ugugi9 \u6e05\u7406\u672c\u56e2\u961f","url":"\/reference\/13571828\/66e3Y13EDBroUArYpS9eE8yzhlHLbchJ21_ea38G4AcuKO6MIb_fccwMnko9lzbVU1lNlHIF9hB-DPWm","site":"\u7fa4\u8bba\u575b","publishDate":"","refDate":"2015-07-06","index":16},{"type":"1","uuid":"gntv6v930s","title":"\u3010\u516c\u544a\u3011\u5173\u4e8e\u5bf9 \u4e1c\u730a \u6e05\u9664\u51fa\u70ed\u8bcd\u56e2\u961f\u7684
+66c8
+\u516c\u544a","url":"\/reference\/13571828\/7f26NDT1IGRKm50R9U6gpLpx7hdbMgADXOgeXuwnNRXDieS3tzqcLLRBCe05VHOYdJT8mLK1FuIU2eAzgHw_Mg","site":"\u767e\u79d1\u8bb0\u8005\u56e2\u5427","publishDate":"","refDate":"2015-07-06","index":17},{"type":"1","uuid":"gntv6v932c","title":"\u3010\u516c\u544a\u3011\u5173\u4e8e\u5bf9 \u5927\u7f57vs\u5c0f\u7f57 \u6c38\u4e45\u5c01\u7981\u5904\u7406\u51b3\u5b9a","url":"\/reference\/13571828\/302eJnKpueL25u6q68btqsfPU5bltHEBaLDDFf-C3NU1z8a4V8cBajERK2x86H2SpMmt3Id2Zi9qQP3o9ocZ0Q","site":"\u767e\u79d1\u8bb0\u8005\u56e2\u5427","publishDate":"","refDate":"2015-07-06","index":18},{"type":"1","uuid":"gntv71kank","title":"\u3010\u516c\u544a\u3011\u5173\u4e8e\u5bc6\u5bc6\u9ebb\u9ebb\u7231\u4f60\u773c \u6c38\u4e45\u5c01\u7981\u5904\u7406","url":"\/reference\/13571828\/bff0a8zC6wDjL6biZtvDO81mv_sDtufNkQEonkKZUViPHWbYqV8oRkF_tvX2xJaLIZsvxlgvfjcy7fFckDklVg","site":"\u767e\u79d1\u874c\u86aa\u56e2\u5427","publishDate":"","refDate":"2015-07-06","index":19},{"type":"1","uuid":"gntvbo1iup","title":"\u3010\u516c\u544a\u3011\u5173\u4e8e\u5bf9 rsfmqik \u6e05\u9664\u51fa\u70ed\u8bcd\u56e2\u961f\u7684\u516c\u544a","url":"\/reference\/13571828\/3bc8WUrKnPplukez4dLAL0AhbznjPmYRhf-8QGhLJUKFaBQtt4SqdTmEIxMSgzhmJZVWCjVK3eM0ngy07iOUpw","site":"\u767e\u79d1\u8bb0\u8005\u56e2\u5427","publishDate":"","refDate":"2015-09-10","index":20}]
+			});
+		});
+	}();
+!function(){        require('wiki-lemma:widget/lemma_content/configModule/zhixin/zhixin')(
+            13571828,
+            '百科热词团队'
+        );
+    }();
+!function(){    require.async(["wiki-lemma:widget/lemma_content/mainContent/lemmaStatistics/lemmaStatistics"],function(init){
+        init({
+            newLemmaIdEnc:"ab3b24ece414c9e96b4d913c"
+        });
+    });
+}();
+!function(){	require.async(["wiki-lemma:widget/lemma_content/mainContent/sideCatalog/sideCatalog"],function(SideCatalog){
+		new SideCatalog({
+			isMemorial: null
+		});
+	});
+}();
+!function(){        require.async(["wiki-lemma:widget/promotion/fengchao/fengchao.es","wiki-lemma:widget/promotion/unionAd/unionAd"], function (init, unionAd) {
+            init({
+                newLemmaId: "13571828",
+                lemmaTitle: "百科热词团队",
+                encodeLemmaTitle: "%B0%D9%BF%C6%C8%C8%B4%CA%CD%C5%B6%D3",
+                adManager: {"pcFengchaoGuess":0,"pcFengchaoRight":0,"wapBaiduYouxuan":0,"pcRelatedBusiness":0,"albumCoverFirstJumpAd":0,"albumCoverSecondJumpAd":0,"pcWapDireactAd":0}
+            }, {
+                errFn: unionAd,
+                dom: $('#side_box_unionAd')
+            });
+        });
+    }();
+!function(){        require.async(['wiki-lemma:widget/promotion/guessLike/guessLike'], function (app) {
+            app.init({
+                lemmaTitle: '百科热词团队',
+                adManager: {"pcFengchaoGuess":0,"pcFengchaoRight":0,"wapBaiduYouxuan":0,"pcRelatedBusiness":0,"albumCoverFirstJumpAd":0,"albumCoverSecondJumpAd":0,"pcWapDireactAd":0},
+                eid: null
+            });
+        });
+    }();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var Dialog = require("wiki-common:widget/ui/dialog/dialog");
+    var userLogin = require('wiki-common:widget/component/userLogin/userLogin');
+    var unameFiller = require('wiki-common:widget/component/unameFiller/unameFiller');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+    var nsLog = require('wiki-common:widget/component/nslog/nslog');
+    var clickstream = require('wiki-lemma:widget/tools/clickstream/clickstream');
+
+            var isEnterprise = false;
+        var enterpriseOwnerUserId = 0;
+    
+    var userId = 0;
+    var editUrl = '/edit/' + encodeURIComponent('百科热词团队') + '/' + '13571828';
+    var pgcUrl = '/enterprise/editpgc?lemmaId=13571828';
+    var canDiscussion = $('.j-discussion-link').length > 0 ? true : false;
+
+    userLogin.regist({
+        onLogin: function(user) {
+            userId = user ? user.uid : 0;
+        }
+    });
+
+    function gotoEdit(url, isMidNight) {
+        if (isMidNight) {
+            Dialog.alert({
+                title: '编辑提示',
+                subMsg: '晚23:00至次日8:00，因审核系统例行维护，您提交的版本可能需要较长时间才能通过，望您谅解。',
+                onConfirm: function() {
+                    window.location.href = url;
+                }
+            });
+        } else {
+            window.location.href = url;
+        }    
+    }
+
+    function showChoseEditDialog(pgcCallback, ugcCallback) {
+        new Dialog({
+            title: '编辑提示',
+            subMsg: '<p>您已开通企业百科服务，推荐您直接编辑“官方资料”，官方资料仅限企业百科绑定的百科账号修改，其他用户账号不可修改。</p><p>如果您想修改其他网友编辑的普通词条内容，请注意遵守百科百科编辑规则。<p>',
+            btns: [{
+            key: 'pgc',
+            text: '编辑官方资料'
+            }, {
+            style: 'white',
+            text: '修改普通词条',
+            key: 'ugc'
+            }],
+            onBtnClick: function(btnKey){
+                if (btnKey === 'pgc') {
+                    pgcCallback && pgcCallback();
+                } else if (btnKey === 'ugc') {
+                    ugcCallback && ugcCallback();
+                }
+            }
+        }).show();
+    }
+
+    function checkUserLegal(res) {
+        var legal = false;
+        switch (res.errno) {
+            case 100001:
+                nsLog('10003106');
+                userLogin.showLoginPop();
+                break;
+            case 100006:
+                unameFiller.show();
+                break;
+            default:
+                legal = true;
+        }
+        return true;
+    }
+
+    function checkUgc(res, url) {
+        if (res.errno) {
+            switch (res.errno) {
+                case 100005:
+                    alert('对不起，您目前被封禁');
+                    break;
+                case 110001:
+                    alert('对不起，该词条被锁定');
+                    break;
+                case 110007:
+                    alert('对不起，消歧页无法编辑');
+                    break;
+                case 110005:
+                    nsLog('10003101');
+                    var content = '<div style="text-align: left;width: 490px">'
+                        + '<h2 style="font-size: 20px;color: #333;line-height: 26px;margin-top: 10px;margin-bottom: 20px;">' 
+                        + '对不起，你暂时没有权限编辑该词条</h2>' 
+                        + '<p style="font-size: 16px;color: #333;line-height: 26px;margin-bottom: 17px;">'
+                        + '亲爱的用户，该词条内容已较完善，需百科等级达到4级且通过率达85%才可编辑哦。</p>'
+                        + '<p style="font-size: 16px;color: #333">你当前百科等级为'
+                        + res.data.userInfo.level + '级、通过率'
+                        + res.data.userInfo.passRatio + '%，可进行以下操作：</p></div>';
+                    var btns = [
+                        {
+                            key: 'join',
+                            text: '<span style="font-size: 14px;text-align: center;vertical-align: middle;display: table-cell;">反馈词条问题，参与百科共建</span>'
+                        },
+                        {
+                            text: '<span style="font-size: 14px;text-align: center;vertical-align: middle;display: table-cell;">参加成长任务，提升编辑权限</span>',
+                            key: 'task'
+                        }
+                    ];
+                    if (canDiscussion) {
+                        btns = [
+                            {
+                                key: 'discussion',
+                                text: '<span style="font-size: 14px">参与词条讨论，反馈词条问题</span>'
+                            },
+                            {
+                                text: '<span style="font-size: 14px">参加成长任务，提升编辑权限</span>',
+                                key: 'task'
+                            }
+                        ];
+                    }
+                    new Dialog({
+                        title: '编辑提示',
+                        content: content,
+                        btns: btns,
+                        onBtnClick: function(btnKey){
+                            if (btnKey === 'discussion') {
+                                window.location.href = '/planet/talk?lemmaId=13571828&category=1';
+                            } else if (btnKey === 'task') {
+                                window.location.href = '/usercenter#guide';
+                            } else if (btnKey === 'join') {
+                                window.location.href = '/feedback';
+                            }
+                        }
+                    }).show();
+                    break;
+                case 110008:
+                    nsLog('10003102');
+                    var content = '<div style="text-align: left;width: 490px">'
+                        + '<h2 style="font-size: 20px;color: #333;line-height: 26px;margin-bottom: 20px;margin-top: 10px;">' 
+                        + '对不起，你暂时没有权限编辑该词条</h2>' 
+                        + '<p style="font-size: 16px;color: #333;line-height: 26px;margin-bottom: 17px;">'
+                        + '亲爱的用户，该词条内容已较完善，需百科等级达到6级且通过率达85%才可编辑哦。</p>'
+                        + '<p style="font-size: 16px;color: #333">你当前百科等级为'
+                        + res.data.userInfo.level + '级、通过率'
+                        + res.data.userInfo.passRatio + '%，可进行以下操作：</p></div>';
+                    var btns = [
+                        {
+                            key: 'join',
+                            text: '<span style="font-size: 14px;text-align: center;vertical-align: middle;display: table-cell;">反馈词条问题，参与百科共建</span>'
+                        },
+                        {
+                            text: '<span style="font-size: 14px;text-align: center;vertical-align: middle;display: table-cell;">参加成长任务，提升编辑权限</span>',
+                            key: 'task'
+                        }
+                    ];
+                    if (canDiscussion) {
+                        btns = [
+                            {
+                                key: 'discussion',
+                                text: '<span style="font-size: 14px">参与词条讨论，反馈词条问题</span>'
+                            },
+                            {
+                                text: '<span style="font-size: 14px">参加成长任务，提升编辑权限</span>',
+                                key: 'task'
+                            }
+                        ];
+                    }
+                    new Dialog({
+                        title: '编辑提示',
+                        content: content,
+                        btns: btns,
+                        onBtnClick: function(btnKey){
+                            if (btnKey === 'discussion') {
+                                window.location.href = '/planet/talk?lemmaId=13571828&category=1';
+                            } else if (btnKey === 'task') {
+                                window.location.href = '/usercenter#guide';
+                            } else if (btnKey === 'join') {
+                                window.location.href = '/feedback';
+                            }
+                        }
+                    }).show();
+                    break;
+                case 470001:
+                    alert('系统错误，请刷新重试');
+                    break;
+                case 110003:
+                    nsLog('10003103');
+                    // 新打点sdk
+                    clickstream.logActEvent({
+                        page: 'lemma',
+                        act_type: 'edit-preeditCheck-editconflict',
+                        errno: 110003,
+                        nslog: 10003103
+                    });
+                    Dialog.alert({
+                        title: '编辑提示',
+                        subMsg: '很抱歉，该词条有其他用户编辑的版本正在提交，您暂时无法编辑。<br/>百科建议您晚些时候再编辑该词条，或者尝试编辑其他的词条。'
+                    });
+                    break;
+            }
+        } else {
+            if (!res.data.right.noAudit) {
+                Dialog.alert({
+                    title: '编辑提示',
+                    subMsg: '很抱歉，该词条有其他用户编辑的版本正在提交，您暂时无法编辑。<br/>百科建议您晚些时候再编辑该词条，或者尝试编辑其他的词条。'
+                });
+                return;
+            }
+            gotoEdit(url, res.data.notice.isMidNight);
+        }
+    }
+
+    $(document.body).on('click', '.j-edit-link', function() {
+        nsLog('10003100');
+        var dl = $(this).attr('data-edit-dl');
+        if (dl) {
+            var url = editUrl + '?dl=' + dl;
+        } else {
+            var url = editUrl;
+        }
+
+        rightCheck.preeditCheck('13571828', '百科热词团队', '百度百科核心用户团队', '166848923', '', function(res) {
+            if (!checkUserLegal(res)) {
+                return;
+            }
+            if (isEnterprise && enterpriseOwnerUserId === userId) {
+                showChoseEditDialog(function() {
+                    location.href = pgcUrl;
+                }, function() {
+                    checkUgc(res, url);
+                });
+            } else {
+                checkUgc(res, url);
+            }
+        });
+    });
+}();
+!function(){  require.async(["wiki-common:widget/lib/jquery/jquery","wiki-common:widget/component/footer/footer_feedback","wiki-common:widget/tools/clickstream/clickstream"], function($, feedback, clickstream){
+    // 新打点sdk
+    $('.question').on('click', 'a', function () {
+      var nslog = $(this).attr('nslog-type');
+      var type = $(this).attr('data-type');
+      if (nslog && type) {
+        clickstream.logActClick({
+          page: 'common',
+          element: 'footer-question-' + type,
+          nslog: nslog
+        });
+      }
+    });
+    feedback({el: '#J-bk-feedback-main',
+      proData: {
+        "extend_feedback_channel": null
+      }
+    });
+    feedback({el: '#J-bk-feedback-query', config: {
+        appid: 215645,
+        productLine: 20184,
+        needContactWay: true,
+        issuePlaceholder: '亲爱的百度百科用户，请在此填写您的质疑内容及原因哦～'
+      },
+      proData: {
+        "kw": $('#J-bk-feedback-query').data('lemma')
+      }
+    });
+  });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery'),
+      initSearchbar = require('wiki-common:widget/component/searchbar-n/searchbar');  
+    initSearchbar($('.wgt-searchbar-simple'));
+  }();
+!function(){    require.async(["wiki-lemma:widget/tools/searchHeader/toolButtons-n/toolButtons"],function(init){
+        init({
+            lemmaId:"12756094",
+            subLemmaId:"13233781",
+            newLemmaId:"13571828"
+        });
+    });
+}();
+!function(){    require('wiki-lemma:widget/tools/searchHeader/toolButtons-n/userInfo')();
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery'),
+      animation = require('wiki-common:widget/util/animation'),
+      nslog = require('wiki-common:widget/component/nslog/nslog'),
+      initSearchbar = require('wiki-common:widget/component/searchbar/searchbar');
+    var isFadeIn = false,
+        isFadeOut = false;
+    var clickstream = require('wiki-lemma:widget/tools/clickstream/clickstream');
+    var fadeInAni, fadeOutAni;
+    $(window).on('scroll', function(e) {
+        var scrollTop = $(this).scrollTop();
+        if (scrollTop > 200 && !isFadeIn && $('.lemmaWgt-searchHeader').css('display') == 'none') {
+            fadeOutAni && fadeOutAni.stop();
+            fadeInAni = animation({
+                duration: 200,
+                easing: 'linear',
+                onStart: function() {
+                    isFadeOut = false;
+                    isFadeIn = true;
+                    $('.lemmaWgt-searchHeader').css('display', 'block');
+                },
+                onStep: function(progress) {
+                    $('.lemmaWgt-searchHeader').css('opacity', progress)
+                },
+                onComplete: function(progress) {
+                    isFadeIn = false;
+                    nslog(10010007);
+                    clickstream.logViewEl({
+                        page: 'lemma',
+                        element: 'topbar_edit'
+                    });
+                    clickstream.logViewEl({
+                        page: 'lemma',
+                        element: 'topbar_discussion'
+                    });
+                }
+            });
+        } else if (scrollTop <= 200 && !isFadeOut && $('.lemmaWgt-searchHeader').css('display') == 'block') {
+            fadeInAni && fadeInAni.stop();
+            fadeOutAni = animation({
+                duration: 300,
+                easing: 'linear',
+                onStart: function() {
+                    $('.lemmaWgt-searchHeader #suggestion').hide();
+                    isFadeIn = false;
+                    isFadeOut = true;
+                },
+                onStep: function(progress) {
+                    $('.lemmaWgt-searchHeader').css('opacity', 1 - progress);
+                },
+                onComplete: function(progress) {
+                    isFadeOut = false;
+                    $('.lemmaWgt-searchHeader').css('display', 'none');
+                }
+            });
+        }
+    });
+}();
+!function(){    require.async(["wiki-lemma:widget/tools/newSideShare/taskSideShare"],function(taskShare){
+        taskShare.init({
+            title: '百科热词团队',
+            desc: "\u767e\u79d1\u70ed\u8bcd\u56e2\u961f\uff08Encyclopedia of Top Searched Keywords Team\uff09\u662f\u767e\u5ea6\u767e\u79d1\u6838\u5fc3\u7528\u6237\u56e2\u961f\uff0c\u4e3b\u8981\u8d1f\u8d23\u70ed\u70b9\u8bcd\u6761\u6316\u6398\u3001\u66f4\u65b0\u3001\u5b8c\u5584\u53ca\u6dfb\u52a0\u70ed\u70b9\u7279\u578b\u6a21\u5757\u7b49\uff0c\u6bcf\u5929\u5206\u4eab\u6700\u65b0\u70ed\u70b9\u77e5\u8bc6\u3002\u767e\u79d1\u70ed\u8bcd\u56e2\u961f\u7531\u70ed\u7231\u77e5\u8bc6\u5206\u4eab\u3001\u7f16\u8f91\u80fd\u529b\u4f18\u79c0\u7684\u79d1\u53cb\u6c47\u805a\u800c\u6210\u3002\u56e2\u961f\u6210\u5458\u7528\u6700\u5feb\u7684\u901f\u5ea6\u5c06\u6700\u65b0\u7684\u70ed\u70b9\u5185\u5bb9\u7f16\u8f91\u66f4\u65b0\u8bcd\u6761\uff0c\u540c\u65f6\u5c06\u9ad8\u8d28\u91cf\u4fe1\u606f\u6574\u7406\u53d1\u5e03\uff0c\u6ee1\u8db3\u5927\u5bb6\u9605\u8bfb\u7684\u9700\u6c42\u3002\u4ed6\u4eec\u6bcf\u5929\u670d\u52a1\u7740\u6570\u4ebf\u7f51\u53cb\u5bf9\u77e5\u8bc6\u7684\u9700\u6c42\u3002\u767e\u79d1\u70ed\u8bcd\u56e2\u961f\u5728\u767e\u79d1\u5b98\u65b9\u7684\u5f15\u5bfc\u4e0b\u5feb\u901f\u6210\u957f\uff0c\u56e2\u961f\u6210\u5458\u7528\u81ea\u5df1\u7684\u4ed8\u51fa\u4e0d\u65ad\u4f20\u9012\u7740\u70ed\u8bcd\u56e2\u961f\u5feb\u6377\u3001\u51c6\u786e\u3001\u9ad8\u8d28\u7684\u5185\u5bb9\u7406\u5ff5\u3002\u79ef\u6781\u53c2\u4e0e\u6765\u5b9e\u73b0\u56e2\u961f\u4ef7\u503c\uff0c\u670d\u52a1\u4ebf\u4e07\u7f51\u53cb\u3002",
+            pic: 'https:\/\/bkimg.cdn.bcebos.com\/pic\/58ee3d6d55fbb2fb4316f1bfce0037a4462309f77641?x-bce-process=image\/resize,m_lfit,w_268,limit_1\/format,f_auto',
+            url: '',
+            qqPic: 'https:\/\/bkimg.cdn.bcebos.com\/pic\/58ee3d6d55fbb2fb4316f1bfce0037a4462309f77641?x-bce-process=image\/resize,m_fill,w_1443,h_1443,align_50,limit_0\/format,f_auto',
+            newLemmaId: '13571828',
+            lemmaTitle: '百科热词团队'
+        });
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var nslog = require("wiki-common:widget/component/nslog/nslog");
+    var testElem = require('wiki-common:widget/component/testElem/testElem');
+    var cmsModuleLoader = require('wiki-common:widget/component/cmsModuleLoader/cmsModuleLoader');
+    var clickstream = require('wiki-lemma:widget/tools/clickstream/clickstream');
+
+    function requireAsync() {
+        require.async(['wiki-lemma:widget/tools/announcement/announcement']);
+    }
+
+    cmsModuleLoader('/api/wikiui/getlemmaconfig', [{
+        name: 'announcement',
+        script: 'wiki-lemma:widget/tools/announcement/announcement.js'
+    }]);
+
+    require.async(["wiki-lemma:widget/tools/lazyLoad/lazyLoad"], function(LazyLoad) {
+        new LazyLoad();
+    });
+
+    require.async(['wiki-common:widget/component/nslog/nslog','wiki-common:widget/lib/jquery/jquery','wiki-common:widget/component/superLogger/superLogger.es'], function(nslog, $, superLogger) {
+        nslog().setGlobal({
+            lemmaId: "12756094",
+            newLemmaId: "13571828",
+            subLemmaId: "13233781",
+            lemmaTitle: "百科热词团队"
+        });
+        function isFun(obj) {
+            return Object.prototype.toString.call(obj) === '[object Function]';
+        }
+        // 设置全局参数
+        if (clickstream.setLogGlobalParam && isFun(clickstream.setLogGlobalParam)) {
+            clickstream.setLogGlobalParam({
+                lemmaId: "12756094",
+                newLemmaId: "13571828",
+                subLemmaId: "13233781",
+                lemmaTitle: "百科热词团队"
+            });
+        }
+        // 词条页 pv
+        nslog(9322);
+        superLogger.sendPv('lemma_pc', {
+            lemmaTitle: "百科热词团队",
+            lemmaId: "13571828"
+        });
+        superLogger.sendHttpRequest({
+            name: 'contrast_lemma_pc',
+            act: 'contrast',
+            pf: 'pc'
+        });
+        // 新打点sdk
+        clickstream.logViewPage({
+            page: 'lemma',
+            lemmaTitle: "百科热词团队",
+            lemmaId: "13571828",
+            nslog: 9322
+        });
+
+        // 词条页时长
+        var startTime = Date.now();
+        document.addEventListener('visibilitychange', function () {
+            if (document.visibilityState === 'hidden') {
+                superLogger.sendState('lemma_pc_duration', Date.now() - startTime, {
+                    lemmaTitle: "百科热词团队",
+                    lemmaId: "13571828"
+                });
+            } else {
+                startTime = Date.now();
+            }
+        });
+
+        $(window).on('beforeunload', function () {
+            // 超过一秒再打点，避免某些情况 visibilitychange 和 unload 同时触发
+            // 重复打点
+            if (Date.now() - startTime > 1000) {
+                superLogger.sendState('lemma_pc_duration', Date.now() - startTime, {
+                    lemmaTitle: "百科热词团队",
+                    lemmaId: "13571828"
+                });
+            }
+        });
+
+        // 链接点击 pv
+        var lemmaPageRegExp = new RegExp(/\/subview\/\d+|\/view\/\d+|\/item\//i);
+        $('body').on('mousedown', 'a', function() {
+            var href = $(this).attr('href');
+            if (href && href.indexOf('/') >= 0 && href.indexOf('#') !== 0) {
+                // 链接点击 pv
+                nslog(10000001);
+                superLogger.sendClk('lemma_link');
+                if (lemmaPageRegExp.test(href)) {
+                    // 词条页链接点击 pv
+                    nslog(10000002, window.location.href, {
+                        targetTitle: $(this).text()
+                    });
+                }
+            }
+        });
+
+        /****** 词条页站内流转需求统计 start ******/
+        (function () {
+            // 各种统计配置
+            var circulationLinkCfg = {
+                innerLink: [ // 内链
+                    '.para',
+                    '.lemmaWgt-baseInfo-simple-largeMovie',
+                    '.lemmaWgt-baseInfo-simple-largeStar',
+                    '.basic-info .basicInfo-block',
+                    '.lemma-summary',
+                    '.lemmaWgt-lemmaSummary',
+                    '.view-tip-panel',
+                    '.horizontal-module',
+                    '.lemmaWgt-roleIntroduction',
+                    '.dramaSeries .dramaSerialList',
+                    '.module-music',
+                    '.table-view',
+                    '[log-set-param="table_view"]',
+                    '.list-module',
+                    '.cell-module',
+                    '.baseBox .dl-baseinfo', // 配置后台字段
+                    '.pvBtn-box .leadPVBtnWrapper',
+                    '.drama-actor',
+                    '#staffList',
+                    '.starMovieAndTvplay',
+                    '.main_tab:not(.main_tab-defaultTab)' // 除去词条tab外的tab
+                ],
+                relationTable: '.rs-container-foot', // 关系表
+                peopleRelation: '.star-info-block.relations, .lemmaWgt-focusAndRelation', // 人物关系（明星+普通）
+                moduleActors: '.featureBaseInfo .actors, .lemmaWgt-majorActors', // 主要演员、嘉宾、主持人
+                moduleWorks: '.featureBaseInfo .works, .large-feature .works', // 代表作品
+                moduleQuarterly: '.featureBaseInfo .po_quarterly, .mian_quarterly', // 分季介绍
+                rankStar: '.rank-list.stars-rank', // 明星榜
+                rankDrama: '.drama-rank-list', // 电视剧榜
+                specialTopic: '.special-topic', // 专题模块
+                modDetailTable: '#modDetailTable', // 关系表出图
+                chuizhitu: '.chuizhitu', // 垂直化模块
+           
+3e38
+     polysemantList: '.polysemantList-wrapper' // 义项切换
+            };
+            /****** 连接统计 ******/
+            function clickNslogFn() {
+                for (var k in circulationLinkCfg) {
+                    if (k === 'innerLink') {
+                        // 词条内链到词条页
+                        var tempArr = circulationLinkCfg[k];
+                        for (var i = 0, l = tempArr.length; i < l; i++) {
+                            tempArr[i] += ' a';
+                        }
+                        var sSelector = tempArr.join(', ');
+
+                        $('body').on('mousedown', sSelector, {key: k},function(e) {
+                            var key = e.data.key;
+                            var href = $(this).attr('href');
+                            var tar = $(this).attr('target') || '';
+                            if (href && href.indexOf('/') >= 0 && href.indexOf('#') !== 0
+                            && tar === '_blank' && lemmaPageRegExp.test(href)) {
+                                // 词条页普通内链点击 pv
+                                nslog(10000004, null ,{division: key});
+                                // 新打点sdk
+                                clickstream.logActClick({
+                                    page: 'lemma',
+                                    element: 'inlink-click',
+                                    ivision: key,
+                                    nslog: 10000004
+                                });
+                            }
+                        });
+                    } else {
+                        // 模块到词条页链接
+                        $(circulationLinkCfg[k]).on('mousedown', 'a', {key: k}, function (e) {
+                            var key = e.data.key;
+                            var href = $(this).attr('href');
+                            if (href && href.indexOf('#') !== 0 && lemmaPageRegExp.test(href)) {
+                                // 词条页配置模块链接点击 pv
+                                nslog(10000004, null, {division: key});
+                                // 新打点sdk
+                                clickstream.logActClick({
+                                    page: 'lemma',
+                                    element: 'inlink-click',
+                                    ivision: key,
+                                    nslog: 10000004
+                                });
+                            }
+                        });
+                    }
+                }
+            }
+            // 发起统计请求
+            clickNslogFn();
+
+            /****** 各模块展现量pv ******/
+            function checkModuleIsShow() {
+                var result = [];
+                for (var k in circulationLinkCfg) {
+                    if (k !== 'innerLink' && k !== 'relationTable') {
+                        !!$(circulationLinkCfg[k]).html() && result.push(k);
+                    }
+                }
+                if (result.length > 0) {
+                    nslog(10000005, null, {showModules: result.join(',')});
+                    // 新打点sdk
+                    clickstream.logViewEl({
+                        page: 'lemma',
+                        element: 'module',
+                        showModules: result.join(','),
+                        nslog: 10000005
+                    });
+                }
+            }
+            checkModuleIsShow();
+
+        })();
+        /****** 词条页站内流转需求统计 end ******/
+
+    });
+
+    // 广告接入 wikiad 统一加载
+    // log 词条页广告被拦截情况（此处 log 请求行为）
+    nslog(70000101, window.location.href, {
+        api: 'lemma-ad',
+        action: 'request'
+    });
+    var tags = [];
+    var tagsArray = [];
+    for (var key in tags) {
+        tagsArray.push(tags[key].tagName);
+    }
+    $.ajax({
+        type: 'GET',
+        url: '/api/wikiad/getsquirrels',
+        data: {
+            lemmaId: 13571828,
+            tags: tagsArray.join()
+        },
+        cache: false,
+        dataType: 'JSON',
+        success: function (res) {
+            // log 词条页广告被拦截情况（此处 log 请求成功）
+            nslog(70000101, window.location.href, {
+                api: 'lemma-ad',
+                action: 'success'
+            });
+
+            if (!res.errno) {
+                if (res.data[5]) {
+                                        require.async(['wiki-lemma:widget/promotion/rightPreciseAd/rightPreciseAd'], function(rightPreciseAd) {
+                        rightPreciseAd(res.data[5]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[5][0].adId,
+                            adTitle: res.data[5][0].name,
+                            adPos: 5
+                        });
+                        // 新打点sdk
+                        clickstream.logViewEl({
+                            page: 'lemma',
+                            element: 'rightPreciseAd',
+                            adId: res.data[5][0].adId,
+                            adTitle: res.data[5][0].name,
+                            adPos: 5,
+                            nslog: 10002201
+                        });
+                    });
+                                    } else if (res.data[1]) {
+                    // 缅怀类词条屏蔽词条页v百科
+                                        require.async(['wiki-lemma:widget/promotion/vbaike/vbaike'], function(vbaike) {
+                        vbaike(res.data[1]);
+                        for(var i in res.data[1]) {
+                            nslog(10002201, location.href, {
+                                adId: res.data[1][i].adId,
+                                adTitle: res.data[1][i].name,
+                                adPos: 1
+                            });
+                            // 新打点sdk
+                            clickstream.logViewEl({
+                                page: 'lemma',
+                                element: 'vbaike',
+                                adId: res.data[1][i].adId,
+                                adTitle: res.data[1][i].name,
+                                adPos: 1,
+                                nslog: 10002201
+                            });
+                        }
+                    });
+                                    }
+                // 缅怀类词条屏蔽广告
+                                if (res.data[9]) {
+                    require.async(['wiki-lemma:widget/promotion/rightBigAd/rightBigAd'], function(rightBigAd) {
+                        rightBigAd(res.data[9]);
+                            nslog(10002201, location.href, {
+                                adId: res.data[9][0].adId,
+                                adTitle: res.data[9][0].name,
+                                adPos: 9
+                            });
+                            // 新打点sdk
+                            clickstream.logViewEl({
+                                page: 'lemma',
+                                element: 'rightBigAd',
+                                adId: res.data[9][0].adId,
+                                adTitle: res.data[9][0].name,
+                                adPos: 9,
+                                nslog: 10002201
+                            });
+                    });
+                } else if(res.data[2]) {
+                    // 词条页轮播
+                                        require.async(['wiki-lemma:widget/promotion/slide/slide'], function(slide) {
+                        slide(res.data[2]);
+                        for(var i in res.data[2]) {
+                            nslog(10002201, location.href, {
+                                adId: res.data[2][i].adId,
+                                adTitle: res.data[2][i].name,
+                                adPos: 2
+                            });
+                            // 新打点sdk
+                            clickstream.logViewEl({
+                                page: 'lemma',
+                                element: 'slide',
+                                adId: res.data[2][i].adId,
+                                adTitle: res.data[2][i].name,
+                                adPos: 2,
+                                nslog: 10002201
+                            });
+                        }
+                    });
+                                    }
+                // 词条页右上
+                if (res.data[3]) {
+                                        require.async(['wiki-lemma:widget/promotion/topAd/topAd'], function(topAd) {
+                        topAd(res.data[3]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[3][0].adId,
+                            adTitle: res.data[3][0].name,
+                            adPos: 3
+                        });
+                        // 新打点sdk
+                        clickstream.logViewEl({
+                            page: 'lemma',
+                            element: 'topAd',
+                            adId: res.data[3][0].adId,
+                            adTitle: res.data[3][0].name,
+                            adPos: 3,
+                            nslog: 10002201
+                        });
+                    });
+                                    }
+                // 词条页悬浮
+                if (res.data[4]) {
+                                        require.async(['wiki-lemma:widget/promotion/rightAd/rightAd'], function(rightAd) {
+                        rightAd(res.data[4]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[4][0].adId,
+                            adTitle: res.data[4][0].name,
+                            adPos: 4
+                        });
+                        // 新打点sdk
+                        clickstream.logViewEl({
+                            page: 'lemma',
+                            element: 'rightAd',
+                            adId: res.data[4][0].adId,
+                            adTitle: res.data[4][0].name,
+                            adPos: 4,
+                            nslog: 10002201
+                        });
+                    });
+                                    }
+                                if (res.data[15]) {
+                    require.async(['wiki-lemma:widget/promotion/banner/banner'], function(banner) {
+                        banner(res.data[15], {
+                            lemmaTitle: "百科热词团队",
+                            lemmaId: "13571828"
+                        });
+                        nslog(10002201, location.href, {
+                            adId: res.data[15][0].adId,
+                            adTitle: res.data[15][0].name,
+                            adPos: 15
+                        });
+                        // 新打点sdk
+                        clickstream.logViewEl({
+                            page: 'lemma',
+                            element: 'banner',
+                            adId: res.data[15][0].adId,
+                            adTitle: res.data[15][0].name,
+                            adPos: 15,
+                            nslog: 10002201
+                        });
+                    });
+                }
+                if (res.data[16]) {
+                    require.async(['wiki-lemma:widget/promotion/declaration/declaration'], function(declaration) {
+                        declaration(res.data[16]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[16][0].adId,
+                            adTitle: res.data[16][0].name,
+                            adPos: 16
+                        });
+                        // 新打点sdk
+                        clickstream.logViewEl({
+                            page: 'lemma',
+                            element: 'declaration',
+                            adId: res.data[16][0].adId,
+                            adTitle: res.data[16][0].name,
+                            adPos: 16,
+                            nslog: 10002201
+                        });
+                    })
+                }
+                // 导流按钮(缅怀类词条不展现)
+                                if (res.data[27]) {
+                    require.async(['wiki-lemma:widget/promotion/leadPVBtn/leadPVBtn'], function(leadPVBtn) {
+                        leadPVBtn(res.data[27], {
+                            newLemmaId: "13571828",
+                            lemmaTitle: "百科热词团队"
+                        });
+                        nslog(10002201, location.href, {
+                            adId: res.data[27][0].adId,
+                            adTitle: res.data[27][0].name,
+                            adPos: 27
+                        });
+                        // 新打点sdk
+                        clickstream.logViewEl({
+                            page: 'lemma',
+                            element: 'leadPVBtn',
+                            adId: res.data[27][0].adId,
+                            adTitle: res.data[27][0].name,
+                            adPos: 27,
+                            nslog: 10002201
+                        });
+                    })
+                }
+                            } else {
+                return;
+            }
+
+            setTimeout(function () {
+                var elemArr = {};
+                res.data[1] && res.data[1].length > 0 && (elemArr['lemma-vbaike-ad'] = $('.lemmaWgt-promotion-vbaike .promotion_viewport a:eq(0) img').get(0));
+                res.data[2] && res.data[2].length > 0 && (elemArr['lemma-slide-ad'] = $('.lemmaWgt-promotion-slide .promotion_viewport a:eq(0) img').get(0));
+                res.data[3] && res.data[3].length > 0 && (elemArr['lemma-navbar-ad'] = {
+                    node: $('.header [nslog-type="10002202"]').get(0),
+                    validations: {
+                        'noBackgroundImage': function() {
+                            return $('.header [nslog-type="10002202"]').css('background-image').indexOf(res.data[3][0].picUrl) < 0
+                        }
+                    }
+                });
+                res.data[4] && res.data[4].length > 0 && (elemArr['lemma-side-ad'] = {
+                    node: $('.right-ad img').get(0),
+                    validations: {
+                        'noBackgroundImage': function() {
+                            return $('.right-ad img').attr('src').indexOf(res.data[4][0].picUrl) < 0
+                        }
+                    }
+                });
+                res.data[15] && res.data[15].length > 0 && (elemArr['lemma-configModule-banner'] = $('.configModuleBanner').get(0));
+                res.data[16] && res.data[16].length > 0 && (elemArr['lemma-configModule-declaration'] = $('.lemmaWgt-declaration').get(0));
+
+                testElem.log(elemArr, 70000102);
+                // 广告点击 新打点sdk
+                $('.wiki-lemma').on('click', 'a[nslog-type="10002202"]', function () {
+                    var params = JSON.parse($(this).attr('nslog-params' || {}));
+                    var element = $(this).attr('ad-type') || 'promote';
+                    clickstream.logActClick($.extend({
+                        page: 'lemma',
+                        element: element,
+                        nslog: 10002202
+                    }, params));
+                });
+            }, 1000);
+        },
+        error: function () {
+            // log 词条页广告被拦截情况（此处 log 请求
+b50
+失败）
+            nslog(70000101, window.location.href, {
+                api: 'lemma-ad',
+                action: 'error'
+            });
+        }
+    });
+
+    // 设置分享内容
+    window.BKShare.setCommon({
+        bdText: "\u3010\u767e\u79d1\u70ed\u8bcd\u56e2\u961f_\u767e\u5ea6\u767e\u79d1\u3011\u767e\u79d1\u70ed\u8bcd\u56e2\u961f\uff08Encyclopedia of Top Searched Keywords Team\uff09\u662f\u767e\u5ea6\u767e\u79d1\u6838\u5fc3\u7528\u6237\u56e2\u961f\uff0c\u4e3b\u8981\u8d1f\u8d23\u70ed\u70b9\u8bcd\u6761\u6316\u6398\u3001\u66f4\u65b0\u3001\u5b8c\u5584\u53ca\u6dfb\u52a0\u70ed\u70b9\u7279\u578b\u6a21\u5757\u7b49\uff0c\u6bcf\u5929\u5206\u4eab\u6700\u65b0\u70ed\u70b9\u77e5\u8bc6\u3002\u767e\u79d1\u70ed\u8bcd\u56e2\u961f\u7531\u70ed\u7231\u77e5\u8bc6\u5206\u4eab\u3001\u7f16\u8f91\u80fd\u529b\u4f18\u79c0\u7684\u79d1\u53cb\u6c47\u805a\u800c\u6210\u3002\u56e2\u961f\u6210\u5458\u7528\u6700\u5feb\u7684\u901f\u5ea6\u5c06\u6700\u65b0\u7684\u70ed\u70b9\u5185\u5bb9\u7f16\u8f91\u66f4\u65b0\u8bcd\u6761\uff0c\u540c\u65f6\u5c06\u9ad8\u8d28\u91cf\u4fe1\u606f\u6574\u7406\u53d1\u5e03\uff0c\u6ee1\u8db3\u5927\u5bb6\u9605\u8bfb\u7684\u9700\u6c42\u3002\u4ed6\u4eec\u6bcf\u5929\u670d\u52a1\u7740\u6570\u4ebf\u7f51\u53cb\u5bf9\u77e5\u8bc6\u7684\u9700\u6c42\u3002\u767e\u79d1\u70ed\u8bcd\u56e2\u961f\u5728\u767e\u79d1\u5b98\u65b9\u7684\u5f15\u5bfc\u4e0b\u5feb\u901f\u6210\u957f\uff0c\u56e2\u961f\u6210\u5458\u7528\u81ea\u5df1\u7684\u4ed8\u51fa\u4e0d\u65ad\u4f20\u9012\u7740\u70ed\u8bcd\u56e2\u961f\u5feb\u6377\u3001\u51c6\u786e\u3001\u9ad8\u8d28\u7684\u5185\u5bb9\u7406\u5ff5\u3002\u79ef\u6781\u53c2\u4e0e\u6765\u5b9e\u73b0\u56e2\u961f\u4ef7\u503c\uff0c\u670d\u52a1\u4ebf\u4e07\u7f51\u53cb\u3002.....\uff08\u5206\u4eab\u81ea@\u767e\u5ea6\u767e\u79d1\uff09",
+        bdDesc: '',
+        bdUrl: 'http:\/\/baike.baidu.com\/item\/%E7%99%BE%E7%A7%91%E7%83%AD%E8%AF%8D%E5%9B%A2%E9%98%9F\/13571828',
+        bdPic: '',
+        onBeforeClick: function (){
+            $('.bdshare_dialog_box').hide();
+        }
+    });
+
+    // 底部投诉带入当前页面 url
+    var map = [1, 2, 6, 5];
+    $('.wgt-footer-main .suggestion').find('a').each(function(i) {
+        $(this).attr('href', 'http://help.baidu.com/newadd?word=%E7%99%BE%E7%A7%91%E7%83%AD%E8%AF%8D%E5%9B%A2%E9%98%9F' + '&&submit_link=' + encodeURIComponent(window.location.href) + '&prod_id=10&category=' + map[i]);
+    });
+
+    // 为超出预设内容的表格添加table-responsive控制
+    $('.main-content').find('table').each(function(index) {
+        var $that = $(this);
+        if ($that.width() > 790) {
+            $that.wrap('<div class="table-responsive"></div>');
+        }
+    });
+    if (!$('.reference-title').length) {
+        $('.main-content').addClass('main-content-margin');
+    }
+}();
+!function(){      require('wiki-common:widget/component/psLink/psLink');
+    }();</script>
+</html>
+
+0
+
