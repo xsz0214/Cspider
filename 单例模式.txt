@@ -1,0 +1,36 @@
+//单例设计模式
+#include<iostream>
+using namespace std;
+
+
+class Singleton{
+private:
+	Singleton(){
+		cout<<"创建了一个单例对象"<<endl;
+	}
+	//instance =new Singleton  饿汉式 在类加载时就已经创建对象，适合调用较为频繁，效率较高。
+	Singleton(const Singleton&);
+	Singleton& operator=(const Singleton&);//防止拷贝构造函数，只能用引用来接
+	~Singleton(){
+		cout<<"摧毁一个单例对象"<<endl;
+	}
+public:
+	//Singleton Singleton::instance;
+	static Singleton& getInstance(){
+		static Singleton intstance;   //懒汉式 在类加载时没有创建对象，而是在调用获取该类对象的方法时检查对象是否已经创建，若没有创建在创建该类的对象
+		return intstance;
+	}
+
+};
+//总结：
+//共同点：俩种模式都会私有化无参构造方法
+//              懒汉模式线程不安全（俩层判断）
+//不同点：饿汉模式没有延迟加载，懒汉模式可以延迟加载，若经常调用，使用饿汉式，效率较高，若不经常调用，使用懒汉式。
+int main()
+{
+	Singleton& obj1=Singleton::getInstance();
+	Singleton& obj2=Singleton::getInstance();
+	Singleton& obj3=Singleton::getInstance();
+
+	return 0;
+}
